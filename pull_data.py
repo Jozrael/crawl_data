@@ -43,11 +43,13 @@ def pull_data():
     
     to_pull = compute_necessary_pulls(rawdata_url)
     
+    #Make sure there's a landing zone for the pulled morgue files.
     if not os.path.exists('./morgues/'+common.username+'/'):
         if not os.path.exists('./morgues/'):
             os.makedirs('./morgues/')
         os.makedirs('./morgues/'+common.username)
-        
+    
+    #Pull and write em
     for link in to_pull:
         morgue_file = str(get(rawdata_url+link).content.strip(),'utf-8')
 
