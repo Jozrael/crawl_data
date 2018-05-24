@@ -16,7 +16,8 @@ def pull_data(rawdata_url, username):
     parser.links = []
     parser.feed(rawdata)
 
-    to_pull = []
+    #Always pull your latest, we'll assume it's changed.
+    to_pull = [username+".txt"]
 
     for link in parser.links:
         if not os.path.isfile('./morgues/'+username+'/'+link):
