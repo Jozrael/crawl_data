@@ -1,6 +1,7 @@
 from html.parser import HTMLParser
 from requests import get
 import os
+from common import username
 
 class linkParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
@@ -9,7 +10,7 @@ class linkParser(HTMLParser):
         if ".txt" in attrs[0][1]:
             self.links.append(attrs[0][1])
 
-def pull_data(rawdata_url, username):
+def pull_data(rawdata_url):
     rawdata = str(get(rawdata_url).content)
 
     parser = linkParser()

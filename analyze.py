@@ -1,7 +1,7 @@
-from common import print_block
+from common import print_block, username, mode
 from os import listdir
 
-def get_killers(mode,username):
+def get_killers():
     for file in listdir('./morgues/'+username):
         with open('./morgues/'+username+'/'+file) as morgue_file:
             mf = morgue_file.read().splitlines()
@@ -13,3 +13,7 @@ def get_killers(mode,username):
                     else:
                         print_block(mf, index+1, mode)
                         break
+
+def get_class_race_deity_combos(username):
+
+    return
