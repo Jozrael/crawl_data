@@ -21,7 +21,7 @@ def print_block(morgue_file_lines, starting_index, mode):
     output = ""
     while True:
         output += morgue_file_lines[starting_index].strip()
-        if mode == "original":
+        if mode in ["original", "compact"]:
             output += "\n"
         if mode == "compact":
             break
