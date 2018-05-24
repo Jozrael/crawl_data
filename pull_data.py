@@ -1,7 +1,7 @@
 from html.parser import HTMLParser
 from requests import get
 import os
-from common import username
+from common import username, server, mode
 
 class linkParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
@@ -10,7 +10,16 @@ class linkParser(HTMLParser):
         if ".txt" in attrs[0][1]:
             self.links.append(attrs[0][1])
 
-def pull_data(rawdata_url):
+def pull_data():
+    if server not in ["crawl.akrasiac.org","crawl.berotato.org"]:
+        raise Exception("server needs to be crawl.akrasiac.org, or crawl.berotato.org")
+    if mode not in ["original","one-line","compact"]:
+        raise Exception("mode needs to be original, one-line, or compact")
+    rawdata_url = ""
+    if server == "crawl.akrasiac.org":
+        rawdata_url = "http://"+server+"/rawdata/"+username+"/"
+    elif server == "crawl.berotato.org":
+        rawdata_url = "http://"+server+"/crawl/morgue/"+username+"/"
     rawdata = str(get(rawdata_url).content)
 
     parser = linkParser()

@@ -14,6 +14,6 @@ def get_killers():
                         print_block(mf, index+1)
                         break
 
-def get_class_race_deity_combos(username):
+def get_class_race_deity_combos():
 
     return
