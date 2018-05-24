@@ -1,0 +1,146 @@
+Dungeon Crawl Stone Soup version 0.21.1-1-g345015f (webtiles) character file.
+
+5 Jozrael the Skirmisher (level 1, -4/14 HPs)
+             Began as a Gargoyle Berserker on May 14, 2018.
+             Was a Follower of Trog.
+             Slain by a gnoll
+             ... wielding a +0 flail
+              (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:01:48 (160 turns).
+
+Jozrael the Skirmisher (Gargoyle Berserker)          Turns: 160, Time: 00:01:49
+
+Health: -4/14      AC: 11    Str: 20    XL:     1   Next: 80%
+Magic:  1/1        EV:  8    Int:  7    God:    Trog [*.....]
+Gold:   0          SH:  0    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 hand axe
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   d - +0 chain mail
+rPois    ∞         Spirit   .   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.04/turn              e - ring of loudness (curse)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +2
+a: Berserk, Burn Spellbooks, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe (weapon)
+Armour
+ b - a +0 animal skin
+ d - a +0 chain mail (worn)
+Jewellery
+ e - a cursed ring of loudness (left hand)
+Comestibles
+ c - 2 rations
+ f - 4 chunks of flesh
+
+
+   Skills:
+ + Level 3.4 Fighting
+ + Level 2.8 Axes
+ + Level 2.2 Armour
+ + Level 1.6 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +2)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+You closely miss the gnoll. The gnoll hits you with a flail.
+Your chain mail prevents you from hitting the gnoll.
+The gnoll closely misses you.
+You hit the gnoll.
+The gnoll is moderately wounded.
+The gnoll closely misses you.
+You closely miss the gnoll.
+The gnoll is moderately wounded.
+The gnoll misses you.
+You hit the gnoll.
+The gnoll is severely wounded.
+The gnoll barely misses you.
+You hit the gnoll.
+The gnoll is almost dead.
+The gnoll hits you with a flail.
+* * * LOW HITPOINT WARNING * * *
+You barely miss the gnoll.
+The gnoll is almost dead.
+The gnoll hits you with a flail.
+You die...
+
+       #########
+       #.......#      ##
+       #.......######...
+       #.......#........
+       #.......#........
+       #.......#........
+       #.......'@g...?..
+##  ####.......#.....#..
+..  .......÷...#.#####
+.#  ########'###.#
+.###########.#####
+........#........#
+#######.#.##.#####
+........#.##.#   .
+........#..#.###..
+
+
+You could see a gnoll.
+
+Vanquished Creatures
+  3 jackals (D:1)
+  A goblin (D:1)
+  A rat (D:1)
+5 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jozrael the Gargoyle Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+   160 | D:1      | Slain by a gnoll
+
+Action                   || total
+-------------------------++-------
+Melee: Hand axe          ||    22
+  Use: Scroll            ||     2
+Armor: Chain mail        ||    19
+Dodge: Dodged            ||    19

@@ -1,0 +1,644 @@
+Dungeon Crawl Stone Soup version 0.21.1-1-g345015f (webtiles) character file.
+
+163066 Jozrael the Ninja (level 17, -12/89 HPs)
+             Began as a Spriggan Enchanter on May 22, 2018.
+             Was the Champion of Dithmenos.
+             Mangled by a seven-headed hydra simulacrum (28 damage)
+             ... on level 4 of the Swamp on May 23, 2018.
+             The game lasted 04:51:50 (50991 turns).
+
+Jozrael the Ninja (Spriggan Enchanter)             Turns: 50991, Time: 04:51:50
+
+Health: -12/89     AC:  9    Str:  4    XL:     17   Next: 23%
+Magic:  23/28      EV: 35    Int: 24    God:    Dithmenos [******]
+Gold:   2754       SH: 11    Dex: 28    Spells: 18/28 levels left
+
+rFire    . . .     SeeInvis +   b - +7 rapier of Cruel Justice {speed, +Inv}
+rCold    . . .     Gourm    .   K - +3 buckler
+rNeg     . . .     Faith    .   H - +2 robe {MR+}
+rPois    .         Spirit   .   O - +2 hat {MR+}
+rElec    +         Reflect  .   t - +2 cloak
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +++++                  (boots unavailable)
+Stlth    ++++++++++             J - amulet of rage
+HPRegen  0.24/turn              V - ring "Jotalari" {rElec MR++ Stlth+}
+MPRegen  0.21/turn              k - ring of Mowecex {MR- Int+8 Dex+4}
+
+@: wreathed by umbra, heavily drained, very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Shadow Step, Shadow Form, Renounce Religion, Evoke Berserk Rage, Evoke
+Invisibility
+
+
+You were on level 4 of the Swamp.
+You worshipped Dithmenos.
+Dithmenos was exalted by your worship.
+You were not hungry.
+
+You visited 7 branches of the dungeon, and saw 32 of its levels.
+You also visited: Labyrinth, Sewer and Bailey.
+
+You collected 2784 gold pieces.
+You spent 30 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - the +4 Vampire's Tooth {vamp}
+   (You found it on level 7 of the Dungeon)   
+   
+   It inflicts no extra harm, but heals its wielder when it wounds a living
+   foe.
+ b - the +7 rapier of Cruel Justice (weapon) {speed, +Inv}
+   (You found it on level 4 of the Dungeon)   
+   
+   Attacks with this weapon are significantly faster.
+   
+   It lets you turn invisible.
+ R - a +3 blowgun
+Missiles
+ h - 9 needles of sleeping
+ j - 62 poisoned needles
+ X - 7 curare-tipped needles
+Armour
+ t - a +2 cloak (worn)
+ H - a +2 robe of magic resistance (worn)
+ K - a +3 buckler (worn)
+ O - a +2 hat of magic resistance (worn)
+Jewellery
+ k - the ring of Mowecex (right hand) {MR- Int+8 Dex+4}
+   (You found it on level 3 of the Lair of Beasts)   
+   
+   [ring of dexterity]
+   
+   It affects your intelligence (+8).
+   It affects your dexterity (+4).
+   It affects your resistance to hostile enchantments.
+ y - an uncursed ring of flight
+ C - an uncursed ring of wizardry
+ J - an amulet of rage (around neck)
+ U - an uncursed amulet of harm
+ V - the ring "Jotalari" (left hand) {rElec MR++ Stlth+}
+   (You found it on level 6 of the Lair of Beasts)   
+   
+   [ring of stealth]
+   
+   It insulates you from electricity.
+   It affects your resistance to hostile enchantments.
+   It makes you more stealthy.
+Wands
+ p - a wand of paralysis (17)
+ F - a wand of iceblast (21)
+ L - a wand of polymorph (25)
+ Q - a wand of acid (13)
+ T - a wand of digging (12)
+Scrolls
+ f - 10 scrolls of teleportation
+ m - 2 scrolls of fear
+ o - a scroll of remove curse
+ q - a scroll of identify
+ s - a scroll of fog {unknown}
+ x - 2 scrolls of enchant armour
+ A - a scroll of brand weapon
+ D - a scroll of amnesia
+ G - 2 scrolls of silence
+ S - a scroll of holy word
+ W - 2 scrolls of magic mapping
+Potions
+ e - 5 potions of might
+ g - a potion of magic
+ i - a potion of haste
+ l - 2 potions of curing
+ n - 2 potions of ambrosia
+ u - a potion of agility
+ v - 2 potions of heal wounds
+ w - a potion of resistance
+ z - 5 potions of flight
+ E - a potion of invisibility
+ M - a potion of brilliance
+ P - a potion of cancellation
+ Z - a potion of berserk rage
+Miscellaneous
+ c - a crystal ball of energy
+ r - a phial of floods
+ I - a lightning rod (4/4)
+Comestibles
+ d - 20 rations
+
+
+   Skills:
+ - Level 10.0(8.6) Fighting
+ - Level 10.0(8.6) Short Blades
+ + Level 16.6(15.0) Dodging
+ O Level 27(25.0) Stealth
+ - Level 4.0(2.8) Shields
+ - Level 6.1(4.9) Spellcasting
+ + Level 11.7(10.3) Hexes
+ + Level 13.7(12.2) Evocations
+
+
+You had 18 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ######.      1%          1    None
+b - Ensorcelled Hibernat  Hex/Ice        ####..       2%          2    None
+c - Confuse               Hex            ######..     1%          3    ##.....
+d - Blink                 Tloc           N/A          19%         2    None
+e - Slow                  Hex            ######..     1%          2    None
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (0/1) D:7            Lair (6/6) D:8
+  Swamp (4/4) Lair:4       Spider (3/4) Lair:4        Slime (0/5) Lair:6
+    Orc (2/2) D:10            Elf (1/3) Orc:2        Vaults (0/5) D:14
+ Depths (1/5) D:15        
+
+Altars:
+Ashenzari
+Dithmenos
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Wu Jian
+Xom
+Zin
+The Shining One
+Jiyva
+
+Shops:
+D:4 ?   D:5 (   D:13 }   D:14 *   Orc:2 [!(!%=%[=
+
+Annotations:
+D:14 exclusion: Roxanne, Roxanne
+Lair:2 exclusion: oklob plant
+Lair:6 exclusion: 5 oklob plants
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need consume almost no food.
+
+
+Message History
+
+Your shadow mimicks your spell!
+The eight-headed hydra simulacrum appears confused.
+You are too injured to fight recklessly!
+You catch the helpless eight-headed hydra simulacrum completely off-guard!
+You spit the eight-headed hydra simulacrum like a pig!!!
+The eight-headed hydra simulacrum vapourises!
+Dithmenos accepts your kill.
+You are too injured to fight recklessly!
+The seven-headed hydra simulacrum barely misses you.
+The seven-headed hydra simulacrum bites you but does no damage.
+The seven-headed hydra simulacrum misses you.
+The seven-headed hydra simulacrum bites you.
+* * * LOW HITPOINT WARNING * * *
+The seven-headed hydra simulacrum freezes you!
+* * * LOW HITPOINT WARNING * * *
+You block the seven-headed hydra simulacrum's attack. x2
+The seven-headed hydra simulacrum bites you!
+* * * LOW HITPOINT WARNING * * *
+The seven-headed hydra simulacrum freezes you!!
+You die...
+
+   ♣
+ ##.
+##..
+#..#
+#..#
+#..##
+#...#
+ #Z.##
+###@§#
+#...## ≈≈≈♣♣
+##♣.## ♣≈≈≈♣.   .
+ ##..#♣♣≈≈...≈≈≈≈.≈.
+ #..##♣≈≈..♣♣.≈§≈..♣
+ #..# ♣♣..♣♣≈≈≈≈.≈[♣
+ #..# #≈.≈≈♣.≈≈≈.≈.♣
+##..#♣#.≈.≈≈.≈≈≈♣♣.♣
+#..#.#.≈≈.≈≈≈≈≈....≈
+
+
+You could see a seven-headed hydra simulacrum (confused).
+
+Vanquished Creatures
+  Frances (D:14)
+  Agnes (Spider:1)
+  Gastronok (D:11)
+  Kirke (Swamp:3)
+  A ghost moth (Spider:3)
+  2 orc warlords
+  A stone giant (Orc:1)
+  A spark wasp (Spider:3)
+  A minotaur (Lab)
+  Josephine (D:14)
+  3 ettins
+  An ice dragon (Depths:1)
+  13 hydras
+  4 centaur warriors
+  A ghost crab (Swamp:2)
+  8 alligators
+  The ghost of JacobTheMiro the Cleaver, a novice MiFi of Yredelemnul (D:10)
+  7 two-headed ogres
+  5 death yaks (Lair:5)
+  An ogre mage (D:15)
+  Urug (D:14)
+  5 orc high priests (Orc:2)
+  3 unseen horrors
+  4 swamp dragons
+  4 shambling mangroves
+  A phantasmal warrior (D:11)
+  13 orc knights
+  9 orb spiders
+  15 wolf spiders
+  The ghost of sponrad the Grappler, a novice VSFi (D:6)
+  6 ugly things
+  2 manticores
+  3 orc sorcerers
+  3 deep elf magi
+  2 cyclopes
+  3 elephants (Lair:6)
+  2 naga magi (D:15)
+  Psyche (D:9)
+  A centaur zombie (D:15)
+  3 black mambas
+  A torpor snail (Lair:2)
+  2 centaur skeletons
+  The ghost of TheCosmicCake the Skirmisher, a novice DsBe of Trog (D:5)
+  30 spiny frogs
+  4 rime drakes
+  4 kobold demonologists
+  5 demonic crawlers
+  10 komodo dragons
+  6 freezing wraiths
+  A queen bee (Lair:3)
+  6 trolls
+  23 jumping spiders
+  18 hornets
+  9 tyrant leeches
+  28 blink frogs
+  A minotaur skeleton (Lab)
+  A meliai zombie (D:13)
+  6 bog bodies
+  23 slime creatures
+  8 dream sheep
+  6 hippogriffs
+  A centaur simulacrum (D:14)
+  29 redbacks
+  10 spriggans
+  8 wraiths
+  17 tarantellas
+  2 vampires (D:14)
+  4 wyverns
+  18 humans
+  The ghost of sojourner the Covered, an amateur HOFi (D:3)
+  13 yaks
+  2 basilisks
+  A fire elemental (Elf:1)
+  21 vampire mosquitoes
+  3 steam dragons
+  2 hungry ghosts
+  3 swamp worm simulacra (Swamp:4)
+  23 swamp worms
+  7 insubstantial wisps
+  2 wargs
+  3 hydra simulacra (Swamp:4)
+  An acid dragon (D:11)
+  11 water moccasins
+  2 hell hounds (D:8)
+  6 porcupines
+  4 ice beasts
+  51 orc warriors
+  A swamp drake (Swamp:3)
+  3 sky beasts
+  A phantom (D:10)
+  2 black bears
+  An eye of draining (D:12)
+  14 ogres
+  12 wolves
+  13 crocodiles
+  10 centaurs
+  3 big kobolds
+  28 bullfrogs
+  8 gnoll sergeants (Bailey)
+  2 scorpions
+  A wyvern skeleton (D:12)
+  34 killer bees
+  7 wights
+  2 electric eels
+  15 howler monkeys
+  9 crimson imps
+  4 bullfrog zombies
+  8 hounds
+  2 jellies
+  32 orc priests
+  3 human zombies (D:7)
+  6 gnoll shamans (Bailey)
+  12 orc wizards
+  A bullfrog skeleton (D:8)
+  14 worker ants
+  A human skeleton (D:7)
+  Ijyb (D:3)
+  2 hell rats (Lair:3)
+  A killer bee zombie (D:8)
+  An ogre zombie (D:7)
+  An ogre skeleton (D:7)
+  3 hound skeletons
+  A mummy (D:7)
+  A worker ant zombie (D:10)
+  14 gnolls (Bailey)
+  24 adders
+  6 river rats (Lair:3)
+  3 shadow imps
+  10 oozes
+  A worm (D:6)
+  3 adder skeletons
+  A dart slug (D:1)
+  12 leopard geckos
+  100 orcs
+  14 ball pythons
+  7 bats
+  21 giant cockroaches
+  10 goblins
+  10 hobgoblins
+  4 jackals
+  19 kobolds
+  7 quokkas
+  12 frilled lizards
+  A leopard gecko skeleton (D:8)
+  An orc zombie (D:7)
+  A quokka zombie (D:5)
+  6 rats
+  A plant (Lair:6)
+1123 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A spriggan (Swamp:2)
+  A hornet (Swamp:2)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 humans (Swamp:3)
+  6 vampire mosquitoes (Swamp:4)
+  2 jackals (D:1)
+  12 fungi
+  25 plants
+48 creatures vanquished.
+
+Grand Total: 1173 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jozrael the Spriggan Enchanter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 5/5
+   351 | D:1      | Reached XP level 2. HP: 13/13 MP: 6/6
+   877 | D:2      | Learned a level 2 spell: Ensorcelled Hibernation
+   896 | D:2      | Found a shadowy altar of Dithmenos.
+   901 | D:2      | Became a worshipper of Dithmenos the Shadowed
+  1466 | D:2      | Reached XP level 3. HP: 10/16 MP: 8/8
+  1672 | D:2      | Reached skill level 5 in Stealth
+  2669 | D:3      | Noticed Ijyb
+  2672 | D:3      | Killed Ijyb
+  2672 | D:3      | Reached XP level 4. HP: 21/21 MP: 9/9
+  2756 | D:3      | Noticed sojourner's ghost (amateur HOFi)
+  2849 | D:3      | Reached skill level 6 in Stealth
+  3680 | D:3      | Reached XP level 5. HP: 12/24 MP: 10/10
+  3855 | D:3      | Found a hazy altar of Hepliaklqana.
+  3856 | D:3      | Found a shimmering altar of Xom.
+  3856 | D:3      | Noticed an unseen horror
+  3858 | D:3      | Noticed a spectral ugly thing
+  3858 | D:3      | Noticed an unseen horror
+  3973 | D:3      | Reached * piety under Dithmenos
+  4162 | D:3      | Found a shadowy altar of Dithmenos.
+  4186 | D:3      | Reached skill level 7 in Stealth
+  4483 | D:4      | Noticed an ogre
+  4492 | D:4      | Killed an ogre
+  4492 | D:4      | Reached skill level 5 in Short Blades
+  4492 | D:4      | Reached XP level 6. HP: 28/28 MP: 11/11
+  4499 | D:4      | Reached skill level 8 in Stealth
+  4705 | D:4      | Found Qojiall's Magic Scroll Shoppe.
+  4889 | D:4      | Reached XP level 7. HP: 32/32 MP: 13/13
+  4913 | D:4      | Reached skill level 5 in Hexes
+  5023 | D:4      | Reached ** piety under Dithmenos
+  5190 | D:4      | Got a bloodstained rapier
+  5191 | D:4      | Identified the +7 rapier of Cruel Justice {speed, +Inv} (You found it on level 4 of the Dungeon)
+  5205 | D:5      | Entered Level 5 of the Dungeon
+  5248 | D:5      | Found Adiblubb's Weapon Shoppe.
+  5586 | D:5      | Found an ornate altar of the Wu Jian Council.
+  5586 | D:5      | Found an iron altar of Okawaru.
+  5612 | D:5      | Found a shattered altar of Ashenzari.
+  6112 | D:5      | Noticed TheCosmicCake's ghost (novice DsBe)
+  6177 | D:5      | Got a translucent broad axe
+  6552 | D:6      | Identified the +5 broad axe of Innocence {antimagic, rF+ MR+ SInv Stlth+} (You found it on level 5 of the Dungeon)
+  6765 | D:6      | Found a glowing drain.
+  6995 | D:6      | Noticed sponrad's ghost (novice VSFi)
+  6995 | D:6      | Reached XP level 8. HP: 32/36 MP: 15/15
+  7043 | Sewer    | Entered a sewer
+  7147 | Sewer    | Reached *** piety under Dithmenos
+  7322 | Sewer    | Reached skill level 1 in Fighting
+  7429 | Sewer    | Reached **** piety under Dithmenos
+  7870 | D:6      | Reached skill level 5 in Dodging
+  8009 | D:7      | Found the +4 Vampire's Tooth {vamp}
+  8661 | D:7      | Reached skill level 9 in Stealth
+  8710 | D:7      | Reached XP level 9. HP: 19/44 MP: 14/16
+  8943 | D:7      | Learned a level 3 spell: Confuse
+  8977 | D:7      | Found an ancient bone altar of Kikubaaqudgha.
+  9262 | D:7      | Found a glowing silver altar of Zin.
+  9263 | D:7      | Found an opulent altar of Gozag.
+  9495 | D:7      | Found a staircase to the Ecumenical Temple.
+  9716 | D:7      | HP: 2/44 [orc warrior/long sword (22)]
+  9755 | D:7      | Found an iron altar of Okawaru.
+ 10993 | D:7      | Reached skill level 10 in Stealth
+ 11456 | D:7      | Reached skill level 11 in Stealth
+ 11597 | D:8      | Found a glowing golden altar of the Shining One.
+ 12238 | D:3      | Killed sojourner's ghost
+ 12238 | D:3      | Reached skill level 12 in Stealth
+ 12344 | D:5      | Killed TheCosmicCake's ghost
+ 13038 | D:8      | Found a staircase to the Lair.
+ 13321 | D:8      | Reached XP level 10. HP: 40/49 MP: 14/18
+ 13464 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+ 13469 | D:8      | Reached skill level 5 in Spellcasting
+ 14143 | D:9      | Reached ***** piety under Dithmenos
+ 14290 | D:9      | Reached skill level 5 in Fighting
+ 14773 | D:9      | Noticed Psyche
+ 14778 | D:9      | Killed Psyche
+ 15072 | D:6      | Killed sponrad's ghost
+ 15560 | D:9      | Noticed a two-headed ogre
+ 15566 | D:9      | Killed a two-headed ogre
+ 15659 | D:9      | Reached XP level 11. HP: 56/56 MP: 21/21
+ 16179 | D:10     | Entered Level 10 of the Dungeon
+ 16284 | D:10     | Reached skill level 10 in Short Blades
+ 16315 | D:10     | Reached skill level 10 in Hexes
+ 16367 | D:10     | Found a shimmering altar of Xom.
+ 16367 | D:10     | Noticed JacobTheMiro's ghost (novice MiFi)
+ 16407 | D:10     | Killed JacobTheMiro's ghost
+ 16760 | D:10     | Found a staircase to the Orcish Mines.
+ 17030 | D:10     | Reached skill level 13 in Stealth
+ 17377 | D:11     | Reached ****** piety under Dithmenos
+ 17382 | D:11     | Noticed Gastronok
+ 17741 | D:11     | Noticed a centaur warrior
+ 17821 | D:11     | Got an encrusted dagger
+ 17974 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 18009 | Lair:1   | Reached skill level 10 in Dodging
+ 18101 | Lair:1   | Found a glowing golden altar of the Shining One.
+ 18285 | Lair:1   | Noticed a seven-headed hydra
+ 18292 | Lair:1   | Killed a seven-headed hydra
+ 18292 | Lair:1   | Reached skill level 14 in Stealth
+ 19262 | Lair:2   | Noticed an oklob plant
+ 19311 | Lair:2   | Reached skill level 15 in Stealth
+ 19434 | Lair:2   | Reached XP level 12. HP: 55/61 MP: 9/22
+ 20442 | Lair:3   | Got a fine amber ring
+ 20455 | Lair:3   | Identified the ring of Mowecex {MR- Int+8 Dex+4} (You found it on level 3 of the Lair of Beasts)
+ 20632 | Lair:3   | Found an ornate altar of the Wu Jian Council.
+ 21638 | Lair:4   | Found a staircase to the Swamp.
+ 21740 | Lair:4   | Reached skill level 15 in Dodging
+ 21865 | Lair:4   | Found a hole to the Spider Nest.
+ 22187 | Lair:4   | Noticed a five-headed hydra
+ 22215 | Lair:4   | Killed a five-headed hydra
+ 22293 | Lair:4   | Reached skill level 16 in Stealth
+ 22531 | Lair:5   | Got a scorched quarterstaff
+ 22556 | Lair:5   | Noticed a six-headed hydra
+ 22651 | Lair:5   | Killed a six-headed hydra
+ 22787 | Lair:5   | Noticed a death yak
+ 22787 | Lair:5   | Noticed a death yak
+ 22787 | Lair:5   | Noticed a death yak
+ 22787 | Lair:5   | Noticed a death yak
+ 22789 | Lair:5   | Noticed a death yak
+ 22791 | Lair:5   | Killed a death yak
+ 22795 | Lair:5   | Killed a death yak
+ 22798 | Lair:5   | Killed a death yak
+ 22798 | Lair:5   | Reached XP level 13. HP: 68/68 MP: 23/23
+ 22800 | Lair:5   | Reached skill level 17 in Stealth
+ 23122 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 23697 | Lair:5   | Reached skill level 18 in Stealth
+ 24262 | Lair:6   | Found a staircase to the Slime Pits.
+ 24263 | Lair:6   | Found a viscous altar of Jiyva.
+ 24280 | Lair:6   | Reached skill level 19 in Stealth
+ 24771 | Lair:6   | Reached skill level 10 in Fighting
+ 24958 | Lair:6   | Got a twitching silver ring
+ 25036 | Lair:6   | Identified the ring "Jotalari" {rElec MR++ Stlth+} (You found it on level 6 of the Lair of Beasts)
+ 25821 | Lair:4   | Reached XP level 14. HP: 77/77 MP: 21/24
+ 25827 | Lair:4   | Reached skill level 20 in Stealth
+ 25894 | Lair:3   | Identified the +10 quarterstaff of the Hierophant {speed, *Rage rN++} (You found it on level 5 of the Lair of Beasts)
+ 27276 | D:11     | Noticed an orc warlord
+ 27277 | D:11     | Found an iron altar of Okawaru.
+ 27394 | D:11     | Killed an orc warlord
+ 27666 | D:11     | Got a transparent hat
+ 27677 | D:11     | Identified the +0 hat "Tohangye" {rF++ rC+ Int-5} (You found it on level 11 of the Dungeon)
+ 27741 | D:11     | Killed Gastronok
+ 27741 | D:11     | Reached skill level 21 in Stealth
+ 29144 | D:13     | Found Poerof's Gadget Boutique.
+ 29242 | D:13     | Found a flagged portal.
+ 29249 | Bailey   | Entered a bailey
+ 29857 | D:13     | Found a labyrinth entrance.
+ 29866 | Lab      | Entered a labyrinth
+ 29963 | Lab      | Reached skill level 22 in Stealth
+ 30318 | Lab      | Got a heavily jewelled robe
+ 30329 | Lab      | Found the +3 salamander hide armour {+Rage rF++}
+ 30342 | Lab      | Identified the cursed +0 robe of Kindness {+Blink rElec rC+} (You took it off a minotaur in a labyrinth)
+ 30532 | D:13     | Found an opulent altar of Gozag.
+ 30987 | D:14     | Found a gate to the Vaults.
+ 31136 | D:14     | Found Jirphoz's Assorted Antiques.
+ 31147 | D:14     | Noticed Roxanne
+ 31262 | D:14     | Reached skill level 23 in Stealth
+ 31459 | D:13     | Learned a level 2 spell: Blink
+ 31490 | D:14     | Noticed Josephine
+ 31493 | D:14     | Killed Josephine
+ 31959 | D:14     | Reached skill level 24 in Stealth
+ 31974 | D:14     | Noticed Urug
+ 31981 | D:14     | Killed Urug
+ 32059 | D:14     | Noticed Frances
+ 32298 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 32306 | Orc:1    | Reached XP level 15. HP: 80/80 MP: 25/25
+ 32456 | Orc:1    | Noticed an orc warlord
+ 33068 | D:10     | Killed an orc warlord
+ 34200 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 34200 | Orc:2    | Found Fuexteal's Food Emporium.
+ 34200 | Orc:2    | Found Ebly's Antique Armour Boutique.
+ 34205 | Orc:2    | Found Nudy's Jewellery Boutique.
+ 34905 | Orc:2    | Bought a cursed amulet of inaccuracy for 30 gold pieces
+ 34925 | Orc:2    | Found Zisuil's Food Emporium.
+ 34977 | Orc:2    | Found Vaodoqit's Jewellery Boutique.
+ 35234 | Orc:2    | Found a staircase to the Elven Halls.
+ 35644 | Orc:2    | Reached skill level 25 in Stealth
+ 35778 | Orc:2    | Learned a level 2 spell: Slow
+ 36690 | Orc:2    | Found Suimol's Distillery.
+ 36693 | Orc:2    | Found Pedghefu's Distillery.
+ 36694 | Orc:2    | Found Nyj Zics's Antique Armour Shop.
+ 36695 | Orc:2    | Found Woyvoiwk's Antique Weapon Boutique.
+ 37023 | Swamp:1  | Entered Level 1 of the Swamp
+ 37031 | Swamp:1  | Reached skill level 26 in Stealth
+ 39186 | D:14     | Killed Frances
+ 39511 | D:15     | Entered Level 15 of the Dungeon
+ 39568 | D:15     | Reached skill level 27 in Stealth
+ 39581 | D:15     | Reached skill level 1 in Evocations
+ 40099 | D:15     | Reached skill level 5 in Evocations
+ 40221 | D:15     | Found a staircase to the Depths.
+ 40229 | D:15     | Reached XP level 16. HP: 85/85 MP: 26/26
+ 40747 | Elf:1    | Entered Level 1 of the Elven Halls
+ 41162 | Spider:1 | Entered Level 1 of the Spider Nest
+ 41332 | Spider:1 | Noticed Agnes
+ 41339 | Spider:1 | Killed Agnes
+ 41657 | Spider:1 | Reached skill level 10 in Evocations
+ 42275 | Lair:3   | Identified the cursed +2 dagger of Urgency {flame, SInv} (You found it on level 11 of the Dungeon)
+ 45106 | Swamp:3  | Reached skill level 1 in Shields
+ 48481 | Depths:1 | Entered Level 1 of the Depths
+ 49339 | Swamp:3  | Noticed Kirke
+ 49342 | Swamp:3  | Killed Kirke
+ 49414 | Swamp:3  | Reached XP level 17. HP: 89/89 MP: 17/27
+ 50381 | Swamp:4  | Entered Level 4 of the Swamp
+ 50991 | Swamp:4  | Mangled by a seven-headed hydra simulacrum
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 |
+---------------+----------------------------------------------------+-----
+Short Blades   |  2     3  4  5           8  9 10                   | 10.0
+Stealth        |        5  6  7  8     9 12    15 16 19 24 27       | 27.0
+Spellcasting   |                 3  4        6                      |  6.1
+Hexes          |                 4  8        9 10             11    | 11.7
+Fighting       |                       3     6     7 10             | 10.0
+Dodging        |                       8       12 15          16    | 16.6
+Evocations     |                                            7 13    | 13.7
+Shields        |                                               3  4 |  4.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 || total
+-------------------------+-------+-------+-------+-------+-------+-------++-------
+Melee: Dagger            |   130 |   262 |   521 |  1430 |  1821 |    58 ||  4222
+       Rapier            |       |       |   306 |       |   516 |   327 ||  1149
+ Fire: Hunting sling     |       |     1 |       |       |       |       ||     1
+ Cast: Corona            |     1 |       |    39 |    23 |     5 |     2 ||    70
+       Ensorcelled Hiber |     1 |     6 |    20 |    66 |   200 |   133 ||   426
+       Confuse           |       |       |     8 |    24 |    68 |    76 ||   176
+       Slow              |       |       |       |       |     4 |       ||     4
+       Blink             |       |       |       |       |     1 |       ||     1
+Invok: Shadow Step       |       |       |       |       |     1 |     1 ||     2
+ Abil: Evoke Invisibilit |       |       |       |       |     1 |     2 ||     3
+       Evoke Flight      |       |       |       |       |     1 |     2 ||     3
+Evoke: Wand              |       |       |     5 |       |    19 |    16 ||    40
+       Lightning rod     |       |       |       |       |     8 |       ||     8
+       Phial of floods   |       |       |       |       |     2 |     1 ||     3
+  Use: Scroll            |       |       |     7 |     8 |    16 |    11 ||    42
+       Potion            |       |       |     3 |     3 |    14 |     1 ||    21
+ Stab: Sleeping          |    12 |    21 |    26 |    95 |   233 |   136 ||   523
+       Distracted        |     1 |     1 |     8 |     8 |    34 |     8 ||    60
+       Paralysed         |       |       |     2 |       |       |       ||     2
+       Confused          |       |       |     4 |    12 |    36 |    35 ||    87
+       Invisible         |       |       |       |       |       |     4 ||     4
+  Eat: Ration            |       |     2 |     7 |     6 |    16 |     7 ||    38
+Armor: Robe              |     4 |    18 |    16 |     8 |    55 |    19 ||   120
+       Skin              |       |       |       |   109 |       |       ||   109
+Dodge: Dodged            |    85 |   162 |   578 |   577 |  1800 |   405 ||  3607
+Block: Buckler           |       |       |       |   327 |   229 |   141 ||   697

@@ -1,3 +1,6 @@
 Username = Jozrael
 Server = crawl.akrasiac.org
 Mode = compact
+
+Username = Maxmaps
+Server = crawl.berotato.org

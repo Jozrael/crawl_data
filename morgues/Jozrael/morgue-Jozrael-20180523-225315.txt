@@ -1,0 +1,145 @@
+Dungeon Sprint DCSS version 0.21.1-1-g345015f (webtiles) character file.
+
+0 Jozrael the Skirmisher (level 1, 0/14 HPs)
+             Began as a Gargoyle Berserker on May 23, 2018.
+             Was a Follower of Trog.
+             Slain by Ijyb
+             ... wielding a +0 club
+              (5 damage)
+             ... in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:00:20 (24 turns).
+
+Jozrael the Skirmisher (Gargoyle Berserker)           Turns: 24, Time: 00:00:21
+
+Health: 0/14       AC:  0    Str: 20    XL:     1   Next: 0%
+Magic:  1/1        EV: 14    Int:  7    God:    Trog [*.....]
+Gold:   0          SH:  0    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   (weapon currently unavailable)
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     + . .     Faith    .   (armour currently unavailable)
+rPois    ∞         Spirit   .   (helmet currently unavailable)
+rElec    .         Reflect  .   (cloak currently unavailable)
+rCorr    .         Harm     .   (gloves currently unavailable)
+MR       .....     NoTele   +   (boots currently unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.04/turn              (ring currently unavailable)
+MPRegen  0.07/turn              (ring currently unavailable)
+
+@: pig-form, berserk cooldown, slowed
+A: small, negative energy resistance 1, petrification resistance, rot immunity,
+AC +2
+a: Berserk, Burn Spellbooks, Renounce Religion
+
+
+You were in the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You were not hungry.
+
+You were a filthy swine.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 mace (melded)
+Armour
+ b - a +0 animal skin (melded)
+Scrolls
+ i - a scroll of blinking
+Potions
+ d - a potion of curing
+ e - a potion of heal wounds
+ f - a potion of haste
+ g - 2 potions of magic
+ h - a potion of berserk rage
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 3.2 Fighting
+ + Level 3.0 Maces & Flails
+ - Level 2.1 Armour
+ - Level 1.5 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+
+Annotations:
+D Ijyb
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+((Your stone body is resilient. (AC +2)))
+You are immune to poison.
+You resist negative energy. (rN+)
+((You are resistant to electric shocks. (rElec)))
+((You can survive without breathing.))
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+Ijyb hits you with a club.
+* * * LOW HITPOINT WARNING * * *
+Ijyb hits you with a club.
+* * * LOW HITPOINT WARNING * * *
+You barely miss Ijyb.
+Ijyb is moderately wounded.
+Ijyb closely misses you. Ijyb barely misses you.
+You hit Ijyb but do no damage.
+Ijyb is moderately wounded.
+Ijyb closely misses you.
+You hit Ijyb.
+Ijyb is moderately wounded.
+Ijyb zaps a wand. You turn into a filthy swine.
+Your +0 mace melds into your body.
+Your +0 animal skin melds into your body.
+Ijyb zaps a wand. The now-empty wand crumbles to dust.
+You hit Ijyb but do no damage.
+Ijyb is moderately wounded.
+Ijyb hits you with a club.
+You die...
+
+#######
+#<.#..+
+#..hg.#
+#..####
+#..#
+#..#
+#..#
+#⌠⌠#
+####
+
+
+You could see Ijyb.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Jozrael the Gargoyle Berserker began the quest for the Orb.
+     0 | D        | Reached XP level 1. HP: 14/14 MP: 1/1
+     1 | D        | Noticed Ijyb
+    24 | D        | Slain by Ijyb
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    11
+       Mace              ||     7
+Invok: Berserk           ||     1
+Armor: Animal skin       ||     3
+Dodge: Dodged            ||    11

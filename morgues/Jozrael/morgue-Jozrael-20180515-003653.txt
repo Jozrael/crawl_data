@@ -1,0 +1,518 @@
+Dungeon Crawl Stone Soup version 0.21.1-1-g345015f (webtiles) character file.
+
+70311 Jozrael the Severer (level 15, -31/93 HPs)
+             Began as a Gargoyle Berserker on May 14, 2018.
+             Was a High Priest of Trog.
+             Annihilated by a titanic slime creature (76 damage)
+             ... on level 15 of the Dungeon on May 15, 2018.
+             The game lasted 02:39:41 (20036 turns).
+
+Jozrael the Severer (Gargoyle Berserker)           Turns: 20036, Time: 02:39:42
+
+Health: -31/93     AC: 43    Str: 29    XL:     15   Next: 32%
+Magic:  0/15       EV:  7    Int:  7    God:    Trog [*****.]
+Gold:   1366       SH: 16    Dex: 17    Spells: 14/14 levels left
+
+rFire    x . .     SeeInvis .   y - +6 broad axe "Alaebrif" {flame, rF- Str+2 Dex+3}
+rCold    . . .     Gourm    .   b - +1 shield
+rNeg     + . .     Faith    .   M - +2 crystal plate armour
+rPois    ∞         Spirit   +   J - +2 helmet
+rElec    +         Reflect  .   q - +0 cloak
+rCorr    .         Harm     .   o - +0 pair of gloves
+MR       +++..                  x - +0 pair of boots
+Stlth    ..........             s - amulet of guardian spirit
+HPRegen  1.25/turn              T - +4 ring of slaying
+MPRegen  0.14/turn              j - +4 ring of strength
+
+@: regenerating
+A: big wings, negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +11
+a: Fly, Berserk, Trog's Hand, Brothers in Arms, Burn Spellbooks, Renounce
+Religion
+
+
+You were on level 15 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 20 of its levels.
+You also visited: Bailey.
+
+You collected 1366 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +5 battleaxe of freezing
+ i - a +0 hunting sling of flaming
+ y - the +6 broad axe "Alaebrif" (weapon) {flame, rF- Str+2 Dex+3}
+   (You acquired it on level 8 of the Dungeon)   
+   
+   It has been specially enchanted to burn those struck by it, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents. Big, fiery blades are also staple armaments of
+   hydra-hunters.
+   
+   It affects your strength (+2).
+   It affects your dexterity (+3).
+   It makes you vulnerable to fire.
+ z - a +2 executioner's axe of flaming
+ K - a +2 battleaxe
+Missiles
+ k - 520 stones (quivered)
+ S - 8 curare-tipped needles
+ U - 5 poisoned javelins
+Armour
+ b - a +1 shield (worn)
+ o - a +0 pair of gloves (worn)
+ q - a +0 cloak (worn)
+ x - a +0 pair of boots (worn)
+ C - a +2 scale mail of cold resistance
+ J - a +2 helmet (worn)
+ M - a +2 crystal plate armour (worn)
+Jewellery
+ h - an uncursed amulet of harm
+ j - a +4 ring of strength (right hand)
+ s - an amulet of guardian spirit (around neck)
+ F - an uncursed ring of positive energy
+ I - an uncursed ring of ice
+ R - a +2 amulet of reflection
+ T - a +4 ring of slaying (left hand)
+Wands
+ a - a wand of flame (53)
+ A - a wand of digging (14)
+ B - a wand of iceblast (8)
+ H - a wand of polymorph (22)
+ P - a wand of paralysis (10)
+Scrolls
+ g - 3 scrolls of magic mapping
+ l - 2 scrolls of identify
+ p - 6 scrolls of enchant weapon
+ t - 7 scrolls of teleportation
+ L - 2 scrolls of acquirement
+ N - 3 scrolls of remove curse
+ O - a scroll of blinking
+ X - 2 scrolls of immolation
+ Z - a scroll of fear
+Potions
+ e - 5 potions of heal wounds
+ f - a potion of invisibility
+ m - 2 potions of agility
+ n - 5 potions of might
+ r - 4 potions of magic
+ u - 3 potions of brilliance
+ v - 3 potions of lignification
+ w - 5 potions of curing
+ D - 2 potions of haste
+ E - 3 potions of flight
+ G - 4 potions of mutation
+ Q - a potion of cancellation {unknown}
+ W - 3 potions of resistance
+Miscellaneous
+ V - a lightning rod (4/4)
+Comestibles
+ c - 39 rations
+
+
+   Skills:
+ - Level 10.6 Fighting
+ - Level 16.0 Axes
+ - Level 13.0 Armour
+ - Level 1.7 Dodging
+ * Level 13.9 Shields
+
+
+You had 14 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (1/1) D:7            Lair (4/6) D:9
+  Swamp (0/4) Lair:4       Spider (0/4) Lair:3          Orc (0/2) D:9
+ Vaults (0/5) D:13         Depths (0/5) D:15        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:9 (=%**?   D:15 *
+
+Annotations:
+D:15 exclusion: orange crystal statue
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +11)
+You are immune to poison.
+Your large and strong wings let you fly indefinitely.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+Two slime creatures merge to form a titanic slime creature.
+You slash the titanic slime creature! You burn the titanic slime creature.
+The titanic slime creature is severely wounded.
+The titanic slime creature hits you!!
+You slice the titanic slime creature!! You burn the titanic slime creature.
+The titanic slime creature is severely wounded.
+The titanic slime creature barely misses you.
+You slice the titanic slime creature!! You burn the titanic slime creature!
+The titanic slime creature is almost dead.
+The titanic slime creature hits you!!
+You are too injured to fight recklessly!
+Your skin crawls.
+You feel resistant to hostile enchantments.
+You feel quite a bit more hungry.
+You block the titanic slime creature's attack.
+You slash the titanic slime creature! You burn the titanic slime creature.
+The titanic slime creature is almost dead.
+The titanic slime creature hits you!!!!
+Ouch! That really hurt!
+You die...
+
+           #.#..#.#
+           #.#..#.#
+           #.#..#.#
+           #.#....#
+           #.##.###
+           #.......
+###############....
+#.............'....
+##@############....
+ #J#          #....
+ #.#          #....
+ #..          '....
+ ###         ##....
+              #....
+               ....
+
+
+You could see a titanic slime creature.
+
+Vanquished Creatures
+  Snorg (D:10)
+  8 vault guards (D:13)
+  A fire dragon (D:15)
+  6 hydras
+  An ice dragon (D:15)
+  A death knight (D:13)
+  The ghost of 1biasface the Zephyrmancer, a journeyman TeAE of Nemelex Xobeh (D:10)
+  A tengu warrior (D:15)
+  An ogre mage (D:11)
+  A centaur warrior (D:15)
+  5 two-headed ogres
+  A spriggan (Lair:3)
+  6 skeletal warriors
+  A swamp dragon (shapeshifter) (D:15)
+  2 unseen horrors
+  A glowing orange brain (shapeshifter) (D:11)
+  A phantasmal warrior (D:13)
+  A wizard (D:11)
+  A lindwurm (Lair:4)
+  A deep elf mage (D:12)
+  2 wolf spider zombies
+  Pikel (D:8)
+  3 orc knights
+  2 slime creatures (D:12)
+  3 ugly things
+  3 manticores
+  A cyclops (D:14)
+  4 black mambas
+  11 elephants
+  7 spiny frogs
+  A gargoyle (D:11)
+  4 kobold demonologists
+  4 komodo dragons
+  A tengu conjurer (D:10)
+  4 trolls
+  Prince Ribbit (D:8)
+  A hornet (Lair:3)
+  2 tyrant leeches (Lair:4)
+  6 hippogriffs
+  4 blink frogs (Lair:4)
+  A meliai zombie (D:13)
+  24 yaks
+  2 shadows (D:12)
+  2 wyverns (D:13)
+  2 vampires (D:14)
+  2 wraiths (D:13)
+  2 basilisks
+  3 hungry ghosts
+  The ghost of emboman13 the Skirmisher, an amateur FoFi of Cheibriados (D:4)
+  9 vampire mosquitoes
+  A steam dragon (D:7)
+  Menkaure (D:4)
+  An acid dragon (D:13)
+  A warg (D:15)
+  11 water moccasins
+  A soldier ant (D:10)
+  12 orc warriors
+  A floating eye (D:12)
+  11 porcupines
+  4 ice beasts
+  3 black bears
+  2 sky beasts
+  A hornet zombie (D:6)
+  4 slaves (D:8)
+  9 ogres
+  46 wolves
+  4 phantoms
+  7 centaurs
+  9 crocodiles
+  4 big kobolds
+  16 bullfrogs
+  A wyvern skeleton (D:8)
+  7 scorpions
+  21 killer bees
+  14 wights
+  6 howler monkeys
+  8 crimson imps
+  2 bullfrog zombies
+  A quasit (D:7)
+  4 orc priests
+  6 jellies
+  5 centaur skeletons
+  A gnoll shaman (D:7)
+  7 orc wizards
+  Crazy Yiuf (D:4)
+  3 bullfrog skeletons
+  12 hounds
+  Ijyb (D:5)
+  5 iguanas
+  12 worker ants
+  2 killer bee zombies
+  A hound skeleton (D:10)
+  11 gnolls
+  A howler monkey zombie (D:5)
+  12 adders
+  3 shadow imps
+  2 adder zombies
+  4 adder skeletons
+  4 worms
+  4 dart slugs
+  3 leopard geckos
+  51 orcs
+  A ball python (D:1)
+  3 giant cockroaches
+  12 goblins
+  7 hobgoblins
+  6 jackals
+  22 kobolds
+  7 quokkas
+  5 frilled lizards
+  2 jackal skeletons
+  A leopard gecko skeleton (D:7)
+  4 rats
+  4 fungi
+  2 plants
+595 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 orc knights (Bailey)
+  An oklob plant (Lair:1)
+  A cyclops (D:12)
+  A hippogriff (D:12)
+  An acid dragon (D:12)
+  3 orc warriors (Bailey)
+  9 orcs (Bailey)
+  2 kobolds (D:12)
+20 creatures vanquished.
+
+Vanquished Creatures (others)
+  A jelly (D:8)
+  An adder (D:8)
+  15 fungi (D:9)
+  5 plants
+22 creatures vanquished.
+
+Grand Total: 637 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jozrael the Gargoyle Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+   157 | D:1      | Reached XP level 2. HP: 17/19 MP: 2/2
+   182 | D:1      | Reached skill level 3 in Axes
+   509 | D:1      | Reached XP level 3. HP: 22/23 MP: 3/3
+   748 | D:2      | Found a bloodstained altar of Trog.
+  1000 | D:2      | Found a burning altar of Makhleb.
+  1099 | D:2      | Reached ** piety under Trog
+  1145 | D:2      | Reached XP level 4. HP: 29/29 MP: 4/4
+  1232 | D:2      | Reached skill level 4 in Axes
+  2649 | D:4      | Noticed emboman13's ghost (amateur FoFi)
+  2810 | D:4      | Noticed Menkaure
+  2811 | D:4      | Reached XP level 5. HP: 30/33 MP: 5/5
+  2824 | D:4      | Killed Menkaure
+  2824 | D:4      | Reached skill level 5 in Axes
+  2824 | D:4      | Reached XP level 6. HP: 12/38 MP: 6/6
+  2845 | D:4      | Noticed a water moccasin
+  2970 | D:4      | Killed a water moccasin
+  2970 | D:4      | Reached skill level 6 in Axes
+  3213 | D:4      | Found a white marble altar of Elyvilon.
+  3276 | D:4      | Found a runed door.
+  3280 | D:4      | Noticed Crazy Yiuf
+  3285 | D:4      | Killed Crazy Yiuf
+  3324 | D:4      | Reached XP level 7. HP: 40/42 MP: 7/7
+  3808 | D:3      | Reached skill level 7 in Axes
+  4170 | D:4      | Killed emboman13's ghost
+  4170 | D:4      | Reached skill level 8 in Axes
+  4318 | D:5      | Entered Level 5 of the Dungeon
+  4408 | D:5      | Reached XP level 8. HP: 48/48 MP: 8/8
+  4444 | D:5      | Found a stormy altar of Qazlal.
+  4680 | D:5      | Reached skill level 9 in Axes
+  4857 | D:5      | Found a shadowy altar of Dithmenos.
+  5228 | D:5      | Noticed Ijyb
+  5243 | D:5      | Killed Ijyb
+  5243 | D:5      | Reached *** piety under Trog
+  5334 | D:6      | Reached skill level 10 in Axes
+  5654 | D:6      | Reached XP level 9. HP: 31/52 MP: 9/9
+  5741 | D:6      | Found an ornate altar of the Wu Jian Council.
+  5885 | D:6      | Found a hide-covered altar of Uskayaw.
+  5934 | D:5      | Got a polished dagger
+  5935 | D:5      | Identified the +3 dagger of Patience {freeze, *Slow Int+4 Dex+3} (You found it on level 5 of the Dungeon)
+  6073 | D:6      | Found a glowing golden altar of the Shining One.
+  6612 | D:7      | Reached skill level 11 in Axes
+  6719 | D:7      | Found a staircase to the Ecumenical Temple.
+  6724 | Temple   | Entered the Ecumenical Temple
+  7058 | D:8      | Noticed Prince Ribbit
+  7359 | D:8      | Killed Prince Ribbit
+  7380 | D:8      | Noticed Pikel
+  7417 | D:8      | Killed Pikel
+  7417 | D:8      | Reached skill level 12 in Axes
+  7417 | D:8      | Reached XP level 10. HP: 53/58 MP: 8/10
+  7543 | D:8      | Reached skill level 5 in Fighting
+  7760 | D:8      | Noticed a two-headed ogre
+  7771 | D:8      | Killed a two-headed ogre
+  7902 | D:8      | Reached skill level 13 in Axes
+  7959 | D:8      | Identified a scroll of acquirement
+  7960 | D:8      | Got a warped broad axe
+  7961 | D:8      | Identified the +6 broad axe "Alaebrif" {flame, rF- Str+2 Dex+3} (You acquired it on level 8 of the Dungeon)
+  8215 | D:9      | Found Pilyad Muq's Jewellery Emporium.
+  8262 | D:9      | Found Viussol's Antique Weapon Shop.
+  8307 | D:9      | Found a blossoming altar of Fedhas.
+  8326 | D:9      | Reached **** piety under Trog
+  8360 | D:9      | Found Gythusar's Assorted Antiques.
+  8474 | D:9      | Found a staircase to the Lair.
+  8513 | D:9      | Found a sacrificial altar of Ru.
+  8650 | D:9      | Found Zohook's Magic Scroll Boutique.
+  8681 | D:9      | Found Heum's Changing Room.
+  8761 | D:9      | Reached XP level 11. HP: 64/64 MP: 11/11
+  8802 | D:9      | Found a staircase to the Orcish Mines.
+  8860 | D:9      | Found Vuakuts's Food Emporium.
+  8878 | D:9      | Reached skill level 14 in Axes
+  8915 | D:10     | Entered Level 10 of the Dungeon
+  8915 | D:10     | Noticed 1biasface's ghost (journeyman TeAE)
+  8925 | D:10     | Killed 1biasface's ghost
+  8999 | D:10     | Noticed a two-headed ogre
+  9004 | D:10     | Killed a two-headed ogre
+  9208 | D:10     | Reached ***** piety under Trog
+  9310 | D:10     | Noticed Snorg
+  9321 | D:10     | Killed Snorg
+  9793 | D:10     | You fall through a shaft for 3 floors!
+  9816 | D:13     | Noticed a manticore
+  9825 | D:13     | Reached skill level 15 in Axes
+  9834 | D:13     | Killed a manticore
+  9999 | D:12     | Noticed a four-headed hydra
+ 10008 | D:13     | Killed a one-headed hydra
+ 10077 | D:12     | Noticed a four-headed hydra
+ 10084 | D:12     | Killed a one-headed hydra
+ 10084 | D:12     | Reached XP level 12. HP: 70/72 MP: 10/12
+ 10190 | D:11     | Reached skill level 16 in Axes
+ 10237 | D:11     | Noticed a two-headed ogre
+ 10244 | D:11     | Killed a two-headed ogre
+ 10415 | D:11     | Noticed a two-headed ogre
+ 10429 | D:11     | Killed a two-headed ogre
+ 10487 | D:11     | Found a flagged portal.
+ 10506 | Bailey   | Entered a bailey
+ 10544 | Bailey   | Reached skill level 10 in Fighting
+ 11244 | D:11     | Noticed an ogre mage
+ 11261 | D:11     | Killed an ogre mage
+ 11398 | D:11     | Received a gift from Trog
+ 11405 | D:11     | Reached skill level 5 in Armour
+ 11406 | D:11     | Got a smoking dagger {god gift}
+ 11407 | D:11     | Identified the +3 dagger of Qigubi {drain, rPois} (Trog gifted it to you on level 11 of the Dungeon)
+ 12267 | D:12     | Reached XP level 13. HP: 78/83 MP: 13/13
+ 12333 | D:12     | Found a glowing silver altar of Zin.
+ 13110 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 13127 | Lair:1   | Reached skill level 10 in Armour
+ 13407 | Lair:1   | Received a gift from Trog
+ 13639 | Lair:1   | Found a bloodstained altar of Trog.
+ 14789 | Lair:2   | Received a gift from Trog
+ 15250 | Lair:3   | Found a hole to the Spider Nest.
+ 15473 | Lair:3   | Reached skill level 1 in Shields
+ 15512 | Lair:3   | Gained mutation: Your large and strong wings let you fly indefinitely. [Gargoyle growth]
+ 15512 | Lair:3   | Reached XP level 14. HP: 52/88 MP: 9/14
+ 15545 | Lair:3   | Reached skill level 5 in Shields
+ 17106 | Lair:4   | Found a staircase to the Swamp.
+ 17454 | D:13     | Received a gift from Trog
+ 17643 | D:13     | Reached skill level 10 in Shields
+ 17697 | D:13     | Found a basalt altar of Yredelemnul.
+ 17959 | D:13     | Found a gate to the Vaults.
+ 18120 | D:13     | Received a gift from Trog
+ 18598 | D:14     | Reached XP level 15. HP: 79/93 MP: 5/15
+ 18833 | D:14     | Found a blossoming altar of Fedhas.
+ 19046 | D:15     | Entered Level 15 of the Dungeon
+ 19823 | D:15     | Found a staircase to the Depths.
+ 19869 | D:15     | Found Kymu's Assorted Antiques.
+ 20036 | D:15     | Annihilated by a titanic slime creature
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 |
+---------------+----------------------------------------------+-----
+Axes           |     3     4  5  6  8 10 12 13 15 16          | 16.0
+Fighting       |                          4  6  7 10          | 10.6
+Armour         |                                   7 13       | 13.0
+Shields        |                                      3 12 13 | 13.9
+Dodging        |                                              |  1.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Hand axe          |   111 |   125 |   317 |       |       ||   553
+       War axe           |       |       |    92 |    53 |       ||   145
+       Broad axe         |       |       |       |   456 |   800 ||  1256
+ Fire: Hunting sling     |       |       |     8 |     3 |       ||    11
+Throw: Stone             |       |       |       |     4 |     1 ||     5
+Invok: Burn Spellbooks   |       |     1 |       |     3 |     2 ||     6
+       Trog's Hand       |       |     1 |     7 |     9 |     6 ||    23
+       Berserk           |       |       |     6 |     1 |       ||     7
+       Brothers in Arms  |       |       |       |     4 |     3 ||     7
+  Use: Scroll            |     3 |     4 |     6 |    18 |    10 ||    41
+       Potion            |       |       |       |     2 |       ||     2
+  Eat: Chunk             |     1 |    15 |    19 |    16 |    19 ||    70
+       Ration            |       |     1 |       |     3 |     3 ||     7
+Armor: Chain mail        |    71 |    49 |   221 |    91 |       ||   432
+       Scale mail        |       |       |       |   152 |    77 ||   229
+       Troll leather arm |       |       |       |    12 |       ||    12
+       Crystal plate arm |       |       |       |       |   473 ||   473
+Dodge: Dodged            |    36 |    36 |    74 |   127 |   168 ||   441
+Block: Shield            |    29 |    44 |   164 |   217 |   341 ||   795

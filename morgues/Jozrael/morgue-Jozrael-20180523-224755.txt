@@ -1,0 +1,154 @@
+Dungeon Sprint DCSS version 0.21.1-1-g345015f (webtiles) character file.
+
+27 Jozrael the Cudgeler (level 3, -21/23 HPs)
+             Began as a Gargoyle Berserker on May 23, 2018.
+             Was a Follower of Trog.
+             Demolished by an ogre
+             ... wielding a +0 giant club
+              (23 damage)
+             ... in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:00:51 (27 turns).
+
+Jozrael the Cudgeler (Gargoyle Berserker)             Turns: 27, Time: 00:00:52
+
+Health: -21/23     AC:  8    Str: 20    XL:     3   Next: 10%
+Magic:  3/3        EV: 11    Int:  7    God:    Trog [*.....]
+Gold:   0          SH:  0    Dex: 10    Spells: 2/2 levels left
+
+rFire    . . .     SeeInvis .   a - +0 mace
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   j - +0 ring mail (curse)
+rPois    ∞         Spirit   .   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.07/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: berserk cooldown, slowed, very slow
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +3
+a: Berserk, Burn Spellbooks, Renounce Religion
+
+
+You were in the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 mace (weapon)
+Armour
+ j - a cursed +0 ring mail (worn)
+Scrolls
+ i - a scroll of blinking
+Potions
+ d - a potion of curing
+ e - a potion of heal wounds
+ f - a potion of haste
+ g - 2 potions of magic
+ h - a potion of berserk rage
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 3.2 Fighting
+ * Level 6.6 Maces & Flails
+ - Level 2.1 Armour
+ - Level 1.5 Dodging
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +3)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+You open the door.
+An ogre comes into view. It is wielding a giant club.
+The ogre shouts!
+You hit the ogre.
+The ogre is moderately wounded.
+The ogre closely misses you.
+You hit the ogre but do no damage.
+The ogre is moderately wounded.
+The ogre hits you with a giant club!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You thump the ogre!
+The ogre is severely wounded.
+The ogre hits you with a giant club.
+* * * LOW HITPOINT WARNING * * *
+The ogre hits you with a giant club!!
+Ouch! That really hurt!
+You die...
+
+##########
+#<.#.@O..#
+#..').#..+
+#..#### +#
+#..#
+#..#
+#..#
+#⌠⌠#
+####
+
+
+You could see an ogre.
+
+Vanquished Creatures
+  Ijyb (D)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Jozrael the Gargoyle Berserker began the quest for the Orb.
+     0 | D        | Reached XP level 1. HP: 14/14 MP: 1/1
+     2 | D        | Noticed Ijyb
+     9 | D        | Killed Ijyb
+     9 | D        | Reached skill level 6 in Maces & Flails
+     9 | D        | Reached XP level 2. HP: 19/19 MP: 2/2
+     9 | D        | Reached XP level 3. HP: 23/23 MP: 3/3
+    24 | D        | Noticed an ogre
+    27 | D        | Demolished by an ogre
+
+Skill      XL: |  1 |
+---------------+----+-----
+Maces & Flails |  6 |  6.6
+Fighting       |    |  3.2
+Armour         |    |  2.1
+Dodging        |    |  1.5
+
+Action                   || total
+-------------------------++-------
+Melee: Mace              ||     9
+Invok: Berserk           ||     1
+Armor: Animal skin       ||     1
+Dodge: Dodged            ||     2

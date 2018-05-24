@@ -1,0 +1,119 @@
+Dungeon Crawl Stone Soup version 0.21.1-1-g345015f (webtiles) character file.
+
+0 Jozrael the Chiller (level 1, 10/10 HPs)
+             Began as a Gargoyle Ice Elementalist on May 16, 2018.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:28 (4 turns).
+
+Jozrael the Chiller (Gargoyle Ice Elementalist)        Turns: 4, Time: 00:00:28
+
+Health: 10/10      AC:  4    Str: 11    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 10    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   a - +0 robe
+rPois    ∞         Spirit   .   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +2
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Books
+ b - a book of Frost   
+   
+    Spells                           Type                      Level
+    a - Freeze                       Ice                           1
+    b - Throw Frost                  Conjuration/Ice               2
+    c - Ozocubu's Armour             Charms/Ice                    3
+    d - Throw Icicle                 Conjuration/Ice               4
+    e - Summon Ice Beast             Ice/Summoning                 4
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 1.5 Dodging
+ + Level 2.1 Stealth
+ + Level 2.0 Spellcasting
+   Level 1.1 Conjurations
+ + Level 3.0 Ice Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            ##..         6%          1    #......
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +2)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+Welcome, Jozrael the Gargoyle Ice Elementalist.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found the human corpse of Jozrael.
+Found a staircase leading out of the dungeon.
+There is a staircase leading out of the dungeon here.
+There is a staircase leading out of the dungeon here.
+Press: ? - help, v - describe, . - travel
+A translucent stone wall.
+Unknown command.
+Are you sure you want to abandon this character and quit the game? (Confirm with "yes".) 
+
+###########
+#.........#
+#...###...#
+#.@.#†#...+
+#...###...#
+#.........#
+###########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jozrael the Gargoyle Ice Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+     4 | D:1      | Quit the game

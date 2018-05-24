@@ -1,0 +1,216 @@
+Dungeon Crawl Stone Soup version 0.21.1-1-g345015f (webtiles) character file.
+
+176 Jozrael the Skirmisher (level 5, -8/33 HPs)
+             Began as a Gargoyle Berserker on May 14, 2018.
+             Was a Believer of Trog.
+             Mangled by an ogre
+             ... wielding a +0 giant club
+              (17 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:36:52 (3665 turns).
+
+Jozrael the Skirmisher (Gargoyle Berserker)         Turns: 3665, Time: 00:36:53
+
+Health: -8/33      AC: 20    Str: 21    XL:     5   Next: 56%
+Magic:  5/5        EV:  6    Int:  7    God:    Trog [**....]
+Gold:   178        SH:  0    Dex: 10    Spells: 4/4 levels left
+
+rFire    . . .     SeeInvis .   j - +0 broad axe
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   e - +0 plate armour
+rPois    ∞         Spirit   .   k - +2 helmet
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   d - +1 pair of gloves
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.11/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +4
+a: Berserk, Trog's Hand, Burn Spellbooks, Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Trog.
+Trog was pleased with you.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 178 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace
+ b - a +0 dagger of venom
+ g - a +1 dagger of freezing
+ j - a +0 broad axe (weapon)
+Armour
+ d - a +1 pair of gloves (worn)
+ e - a +0 plate armour (worn)
+ k - a +2 helmet (worn)
+Scrolls
+ i - a scroll of remove curse
+Potions
+ f - a potion of berserk rage
+ h - 2 potions of magic {unknown}
+Comestibles
+ c - 7 rations
+
+
+   Skills:
+ - Level 4.0 Fighting
+ - Level 0.5 Short Blades
+ + Level 3.1(3.8) Axes
+ - Level 3.5(4.2) Maces & Flails
+ - Level 2.7 Armour
+ - Level 1.9 Dodging
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Trog
+Uskayaw
+Xom
+
+Annotations:
+D:3 sojourner's ghost, amateur HOFi
+D:4 LiterOCola's ghost, novice FoFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +4)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+There is a stone staircase leading up here.
+Your plate armour prevents you from hitting the ogre.
+The ogre barely misses you.
+The ogre barely misses you.
+You climb upwards.
+Level annotation: sojourner's ghost, amateur HOFi
+There is a stone staircase leading down here.
+You slash the ogre!
+The ogre is moderately wounded.
+The ogre closely misses you.
+Your plate armour prevents you from hitting the ogre.
+The ogre is moderately wounded.
+The ogre hits you with a giant club!!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You see here a stone.
+There is a stone staircase leading up here.
+The ogre hits you with a giant club!
+Ouch! That really hurt!
+You die...
+
+     ##.# #.##.#  #.#   #.......#
+      #.###.##.#  #.#   #########
+      #..##.##.####.#
+  ######.##.......#.###
+###.......####........#
+.....###..## #.##.#.#.#   #######
+.....# #...# #.#..#.#.#   #....(.
+.)..(###.#.###.#O.#.#.#   #......
+..#.#....#..##.#@.#.#.#   #......
+..#.#.#####.##.####.#.#   #......
+..#.#.#   #..#..  ..#.#   #......
+..#†#.######.#.######.#   #......
+..#.#........#........#####......
+..#.########...#####......#......
+..#........#.....................
+##########.#...#####......#......
+      #......(.#####......#......
+
+
+You could see an ogre.
+
+Vanquished Creatures
+  A bullfrog skeleton (D:4)
+  A centaur skeleton (D:4)
+  An iguana (D:2)
+  A worker ant (D:4)
+  An adder (D:3)
+  2 worms (D:3)
+  An orc (D:3)
+  A ball python (D:3)
+  6 bats
+  A giant cockroach (D:2)
+  8 goblins
+  8 hobgoblins
+  3 jackals
+  6 kobolds
+  A quokka (D:2)
+  3 frilled lizards
+  A quokka zombie (D:3)
+  9 rats
+55 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jozrael the Gargoyle Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+   188 | D:1      | Reached XP level 2. HP: 19/19 MP: 2/2
+   955 | D:2      | Found a hide-covered altar of Uskayaw.
+  1069 | D:2      | Found a bloodstained altar of Trog.
+  1097 | D:2      | Reached XP level 3. HP: 23/24 MP: 3/3
+  1144 | D:2      | Reached ** piety under Trog
+  1539 | D:3      | Found a shimmering altar of Xom.
+  1539 | D:3      | Found a shattered altar of Ashenzari.
+  1619 | D:3      | Reached skill level 4 in Fighting
+  1835 | D:3      | Reached XP level 4. HP: 28/29 MP: 4/4
+  1837 | D:3      | Noticed sojourner's ghost (amateur HOFi)
+  2722 | D:4      | Noticed an ogre
+  2731 | D:4      | HP: 1/29 [ogre/giant club (11)]
+  2747 | D:4      | Noticed an ogre
+  2756 | D:4      | Noticed LiterOCola's ghost (novice FoFi)
+  2762 | D:4      | HP: 1/29 [LiterOCola's ghost (3)]
+  2790 | D:2      | Reached skill level 1 in Axes
+  3150 | D:4      | Reached XP level 5. HP: 28/33 MP: 5/5
+  3665 | D:3      | Mangled by an ogre
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Fighting       |        4       |  4.0
+Axes           |           2  3 |  3.1
+Short Blades   |                |  0.5
+Maces & Flails |                |  3.5
+Armour         |                |  2.7
+Dodging        |                |  1.9
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Mace              |    38 |       ||    38
+       Dagger            |   109 |    15 ||   124
+       Broad axe         |       |    93 ||    93
+Invok: Burn Spellbooks   |       |     1 ||     1
+  Use: Scroll            |     7 |     1 ||     8
+  Eat: Chunk             |     3 |     2 ||     5
+       Ration            |       |     1 ||     1
+Armor: Animal skin       |     3 |       ||     3
+       Scale mail        |    50 |       ||    50
+       Ring mail         |     7 |       ||     7
+       Plate armour      |     9 |    92 ||   101
+Dodge: Dodged            |    59 |    51 ||   110

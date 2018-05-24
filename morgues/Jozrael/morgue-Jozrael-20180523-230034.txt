@@ -1,0 +1,238 @@
+Dungeon Sprint DCSS version 0.21.1-1-g345015f (webtiles) character file.
+
+994 Jozrael the Basher (level 8, -1/53 HPs)
+             Began as a Gargoyle Berserker on May 23, 2018.
+             Was a Believer of Trog.
+             Slain by a deep troll (22 damage)
+             ... in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:04:49 (1044 turns).
+
+Jozrael the Basher (Gargoyle Berserker)             Turns: 1044, Time: 00:04:50
+
+Health: -1/53      AC:  9    Str: 22    XL:     8   Next: 19%
+Magic:  8/8        EV: 14    Int:  7    God:    Trog [**....]
+Gold:   563        SH:  0    Dex: 11    Spells: 7/7 levels left
+
+rFire    . . .     SeeInvis .   a - +0 mace
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   l - +0 leather armour
+rPois    ∞         Spirit   .   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...     NoTele   +   (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  1.17/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: regenerating
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +5
+a: Berserk, Trog's Hand, Burn Spellbooks, Renounce Religion
+
+
+You were in the Dungeon.
+You worshipped Trog.
+Trog was pleased with you.
+You were very hungry.
+
+You visited 1 branch
+You collected 618 gold pieces.
+You spent 55 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace (weapon)
+Armour
+ l - a +0 leather armour (worn)
+Wands
+ j - a wand of flame (17)
+Scrolls
+ b - a scroll of remove curse {unknown}
+ i - a scroll of blinking
+Potions
+ d - 4 potions of curing
+ e - 2 potions of heal wounds
+ f - a potion of haste
+ g - 2 potions of magic
+
+
+   Skills:
+ + Level 7.5 Fighting
+ + Level 13.6 Maces & Flails
+ + Level 7.1 Armour
+ + Level 5.3 Dodging
+
+
+You had 7 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D !
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +5)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+The deep troll is moderately wounded.
+You recover from your berserk rage.
+The deep troll bites you!
+* * * LOW HITPOINT WARNING * * *
+The deep troll closely misses you. The deep troll barely misses you.
+You hit the deep troll but do no damage.
+The deep troll is moderately wounded.
+The deep troll completely misses you. The deep troll misses you.
+The deep troll barely misses you.
+You closely miss the deep troll.
+The deep troll is lightly wounded.
+You hit the deep troll but do no damage.
+The deep troll is lightly wounded.
+The deep troll barely misses you. The deep troll claws you.
+* * * LOW HITPOINT WARNING * * *
+The deep troll barely misses you.
+You hit the deep troll but do no damage.
+The deep troll is lightly wounded.
+The deep troll bites you!!
+You die...
+
+#..####..#...#.#
+#..#__####..##(#
+#..#_____##'#_.+
+#⌠⌠#_.∩...'.)._#
+####_..__##_.#+#
+   #_____###'#
+   #########.####+###
+   .......'...T$$.$$+
+   ++++####..@#
+         ###.###
+         #.#'#.#
+         #.....#
+         #.....#
+         #######
+
+
+You could see a deep troll.
+
+Vanquished Creatures
+  Sonja (D)
+  Sigmund (D)
+  A yak (D)
+  An ogre (D)
+  A jelly (D)
+  Ijyb (D)
+  A ballistomycete (D)
+7 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 ballistomycete spores (D)
+2 creatures vanquished.
+
+Grand Total: 9 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Jozrael the Gargoyle Berserker began the quest for the Orb.
+     0 | D        | Reached XP level 1. HP: 14/14 MP: 1/1
+     1 | D        | Noticed Ijyb
+     5 | D        | Killed Ijyb
+     5 | D        | Reached skill level 6 in Maces & Flails
+     5 | D        | Reached XP level 2. HP: 19/19 MP: 2/2
+     5 | D        | Reached XP level 3. HP: 23/23 MP: 3/3
+    58 | D        | Noticed an ogre
+    64 | D        | Killed an ogre
+    64 | D        | Reached skill level 9 in Maces & Flails
+    64 | D        | Reached XP level 4. HP: 9/28 MP: 4/4
+   296 | D        | Noticed Sigmund
+   309 | D        | Killed Sigmund
+   309 | D        | Reached ** piety under Trog
+   309 | D        | Reached skill level 12 in Maces & Flails
+   309 | D        | Reached XP level 5. HP: 16/32 MP: 5/5
+   309 | D        | Reached XP level 6. HP: 19/37 MP: 6/6
+   453 | D        | Found a deep blue altar of Sif Muna.
+   454 | D        | Found an ornate altar of the Wu Jian Council.
+   455 | D        | Found a radiant altar of Vehumet.
+   703 | D        | Found Siotzion's Distillery.
+   703 | D        | Found an ancient bone altar of Kikubaaqudgha.
+   703 | D        | Found a hazy altar of Hepliaklqana.
+   703 | D        | Found a hide-covered altar of Uskayaw.
+   703 | D        | Found a basalt altar of Yredelemnul.
+   703 | D        | Found an opulent altar of Gozag.
+   703 | D        | Found a snail-covered altar of Cheibriados.
+   703 | D        | Found a sacrificial altar of Ru.
+   703 | D        | Found a shadowy altar of Dithmenos.
+   703 | D        | Noticed a yak
+   709 | D        | Killed a yak
+   709 | D        | Reached skill level 5 in Fighting
+   709 | D        | Reached XP level 7. HP: 44/44 MP: 7/7
+   710 | D        | Found a stormy altar of Qazlal.
+   710 | D        | Found a blossoming altar of Fedhas.
+   710 | D        | Found a bloodstained altar of Trog.
+   710 | D        | Found an iron altar of Okawaru.
+   710 | D        | Found a glowing golden altar of the Shining One.
+   710 | D        | Found a glowing silver altar of Zin.
+   710 | D        | Found a white marble altar of Elyvilon.
+   755 | D        | Found a sparkling altar of Nemelex Xobeh.
+   760 | D        | Bought a potion of heal wounds for 55 gold pieces
+   765 | D        | Noticed Sonja
+   771 | D        | Killed Sonja
+   771 | D        | Reached *** piety under Trog
+   771 | D        | Reached skill level 13 in Maces & Flails
+   771 | D        | Reached skill level 5 in Dodging
+   771 | D        | Reached XP level 8. HP: 53/53 MP: 8/8
+  1035 | D        | Noticed a deep troll
+  1044 | D        | Slain by a deep troll
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Maces & Flails |  6     9 12       13 | 13.6
+Dodging        |                 3  5 |  5.3
+Fighting       |                 5  7 |  7.5
+Armour         |                 4  7 |  7.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |     8 |    22 |    12 ||    42
+Invok: Berserk           |     2 |     3 |     2 ||     7
+       Trog's Hand       |       |       |     2 ||     2
+  Eat: Chunk             |       |     3 |       ||     3
+       Ration            |       |       |     1 ||     1
+Armor: Leather armour    |       |     4 |     5 ||     9
+Dodge: Dodged            |       |     8 |    11 ||    19

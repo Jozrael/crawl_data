@@ -1,0 +1,210 @@
+Dungeon Crawl Stone Soup version 0.21.1-1-g345015f (webtiles) character file.
+
+378 Jozrael the Chopper (level 6, 0/52 HPs)
+             Began as a Hill Orc Gladiator on May 14, 2018.
+             Succumbed to Edmund's poison
+             ... on level 4 of the Dungeon.
+             The game lasted 00:45:09 (3608 turns).
+
+Jozrael the Chopper (Hill Orc Gladiator)            Turns: 3608, Time: 00:45:10
+
+Health: 0/52       AC: 14    Str: 19    XL:     6   Next: 74%
+Magic:  6/6        EV: 13    Int:  8    God:    
+Gold:   107        SH:  0    Dex: 17    Spells: 5/5 levels left
+
+rFire    . . .     SeeInvis .   a - +1 war axe
+rCold    + . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   n - +2 plate armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.17/turn              l - ring of protection from cold
+MPRegen  0.10/turn              r - ring of protection from magic
+
+@: agile, lethally poisoned (0 -> -7), very slightly contaminated, hasted,
+invisible, very quick
+A: high mp 1, sturdy frame 1
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 107 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 war axe (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour
+ c - a +0 helmet (worn)
+ j - a +0 ring mail
+ n - a +2 plate armour (worn)
+Jewellery
+ l - a ring of protection from cold (left hand)
+ o - an uncursed ring of teleportation
+ r - a ring of protection from magic (right hand)
+Wands
+ q - a wand of random effects (33)
+Scrolls
+ e - 3 scrolls of remove curse
+ h - 2 scrolls of identify
+ k - 2 scrolls of fog
+Potions
+ g - a potion of brilliance
+Comestibles
+ f - 4 rations
+ t - 2 chunks of flesh
+
+
+   Skills:
+ + Level 4.0 Fighting
+ + Level 7.0 Axes
+ + Level 2.0 Throwing
+ + Level 2.8 Armour
+ + Level 3.3 Dodging
+ + Level 0.1 Stealth
+ + Level 0.1 Unarmed Combat
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Zin
+
+Annotations:
+D:3 BobFreeman's ghost, amateur DECj; Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+Your movements are slightly less encumbered by armour. (ER -2)
+
+
+Message History
+
+You feel sick.
+As you read the scroll labeled EHODUB TUTH, it crumbles to dust.
+You feel as if something is helping you.
+It was a scroll of remove curse.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You remove your ring of teleportation.
+l - a ring of protection from cold (left hand)
+r - a ring of protection from magic (right hand)
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Throwing (i - inventory): d - 3 throwing nets (quivered)
+Press: ? - help, Shift-Dir - straight line, f - you
+Okay, then.
+You eat one of the 5 rations. That ration really hit the spot!
+Unknown command.
+There is a lethal amount of poison in your body!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You die...
+
+#.#####
+.......##########
+....$.....@.....#
+.......).....##.#
+######.#.....##
+     #..........
+     ###...%.##.#
+       #.....#  #
+       ##.......#
+        #..###..)
+#########..#.....
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Edmund (D:4)
+  An orc wizard (D:3)
+  Terence (D:2)
+  A worker ant (D:4)
+  Robin (D:2)
+  7 adders
+  3 dart slugs
+  3 leopard geckos
+  10 orcs
+  A ball python (D:2)
+  A giant cockroach (D:3)
+  11 goblins
+  9 hobgoblins
+  8 jackals
+  4 kobolds
+  3 quokkas
+  11 bats
+  4 frilled lizards
+  7 rats
+  2 fungi (D:3)
+89 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jozrael the Hill Orc Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+    70 | D:1      | Reached XP level 2. HP: 16/25 MP: 2/2
+   477 | D:1      | Reached XP level 3. HP: 23/30 MP: 3/3
+  1206 | D:2      | Reached skill level 5 in Axes
+  1289 | D:2      | Reached XP level 4. HP: 37/37 MP: 4/4
+  1453 | D:2      | Noticed Terence
+  1462 | D:2      | Killed Terence
+  1545 | D:2      | Found a glowing silver altar of Zin.
+  1627 | D:3      | Noticed Robin
+  1635 | D:2      | Reached skill level 1 in Armour
+  1635 | D:2      | Reached XP level 5. HP: 43/45 MP: 5/5
+  1656 | D:2      | Killed Robin
+  1699 | D:3      | Reached skill level 6 in Axes
+  2192 | D:3      | Noticed BobFreeman's ghost (amateur DECj)
+  2525 | D:4      | Noticed Edmund
+  2763 | D:3      | Noticed Sigmund
+  3201 | D:3      | Reached XP level 6. HP: 47/52 MP: 6/6
+  3594 | D:4      | Killed Edmund
+  3594 | D:4      | Reached skill level 7 in Axes
+  3597 | D:4      | Gained mutation: Your movements are slightly less encumbered by armour. (ER -2) [potion of mutation]
+  3597 | D:4      | Gained mutation: You have an increased reservoir of magic. (+10% MP) [potion of mutation]
+  3601 | D:4      | HP: 2/52 [poisoned by Edmund]
+  3606 | D:4      | HP: 1/52 [poisoned by Edmund]
+  3608 | D:4      | Succumbed to Edmund's poison
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Throwing       |     2             |  2.0
+Dodging        |        3          |  3.3
+Axes           |        5     6  7 |  7.0
+Fighting       |           3     4 |  4.0
+Armour         |           1  2    |  2.8
+Stealth        |                   |  0.1
+Unarmed Combat |                   |  0.1
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: War axe           |    90 |   272 ||   362
+       Unarmed           |       |     8 ||     8
+  Use: Scroll            |       |    10 ||    10
+       Potion            |       |     8 ||     8
+  Eat: Chunk             |     1 |     5 ||     6
+       Ration            |       |     2 ||     2
+Armor: Leather armour    |    14 |       ||    14
+       Ring mail         |     9 |       ||     9
+       Plate armour      |    21 |   266 ||   287
+Dodge: Dodged            |    53 |   136 ||   189

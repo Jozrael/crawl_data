@@ -1,0 +1,230 @@
+Dungeon Crawl Stone Soup version 0.21.1-1-g345015f (webtiles) character file.
+
+443 Jozrael the Chopper (level 7, -3/41 HPs)
+             Began as a Gargoyle Berserker on May 15, 2018.
+             Was a Priest of Trog.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (14 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:20:53 (3577 turns).
+
+Jozrael the Chopper (Gargoyle Berserker)            Turns: 3577, Time: 00:20:53
+
+Health: -3/41      AC: 15    Str: 21    XL:     7   Next: 2%
+Magic:  7/7        EV:  8    Int:  7    God:    Trog [***...]
+Gold:   199        SH:  0    Dex: 11    Spells: 6/6 levels left
+
+rFire    . . .     SeeInvis .   q - +0 war axe
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   p - +0 chain mail
+rPois    ∞         Spirit   .   (no helmet)
+rElec    +         Reflect  .   b - +0 cloak
+rCorr    .         Harm     .   k - +0 pair of gloves
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.13/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: berserk cooldown
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +4
+a: Berserk, Trog's Hand, Burn Spellbooks, Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Trog.
+Trog was most pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 199 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ m - a +0 hunting sling
+ q - a +0 war axe (weapon)
+ s - a cursed -1 hand axe
+Missiles
+ d - 211 stones (quivered)
+Armour
+ b - a +0 cloak (worn)
+ k - a +0 pair of gloves (worn)
+ p - a +0 chain mail (worn)
+ t - a +0 chain mail
+Jewellery
+ f - an uncursed amulet of harm {unknown}
+ y - an uncursed ring of resist corrosion {unknown}
+Wands
+ x - a wand of enslavement (11)
+Scrolls
+ j - 7 scrolls of teleportation
+ l - a scroll of immolation
+ o - 3 scrolls of identify
+ r - a scroll of random uselessness {unknown}
+ u - a scroll of blinking {unknown}
+Potions
+ a - a potion of lignification {unknown}
+ e - 3 potions of might
+ g - 2 potions of berserk rage {unknown}
+ h - a potion of magic {unknown}
+ i - a potion of flight {unknown}
+ n - a potion of agility {unknown}
+ v - a potion of invisibility {unknown}
+ w - a potion of brilliance {unknown}
+Comestibles
+ c - 7 rations
+
+
+   Skills:
+ - Level 3.2 Fighting
+ * Level 7.0 Axes
+ - Level 2.1 Armour
+ - Level 1.5 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Elyvilon
+Gozag
+Makhleb
+Qazlal
+Zin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +4)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+You kill the orc priest!
+Trog accepts your kill.
+Your Axes skill increases to level 7!
+You have reached level 7!
+You can't go up here!
+You climb downwards.
+There is a stone staircase leading up here.
+You feel yourself speed up.
+The orc priest calls down the wrath of Beogh upon you.
+You struggle to resist.
+The orc priest calls down the wrath of Beogh upon you.
+Pain shoots through your body!
+You closely miss the orc priest.
+The orc priest mumbles some strange prayers to Beogh against you.
+Beogh smites you!
+* * * LOW HITPOINT WARNING * * *
+You eat one of the 8 rations. That ration really hit the spot!
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+You die...
+
+        ########...##....
+$...... #..........##....
+....... #..........##...#
+....... #..............##
+......( #..........#####
+....... +..........#
+#...... #..........#
+#......##..........#
+.......o@.<#########
+....$..#####
+....###
+...
+.
+
+
+You could see an orc priest.
+
+Vanquished Creatures
+  A scorpion (D:4)
+  4 orc priests
+  A hound (D:4)
+  An orc wizard (D:4)
+  A worker ant (D:2)
+  Robin (D:3)
+  5 adders
+  2 oozes (D:2)
+  A worm (D:2)
+  A dart slug (D:3)
+  4 leopard geckos
+  16 orcs
+  4 ball pythons
+  4 giant cockroaches
+  11 hobgoblins
+  3 jackals (D:3)
+  6 kobolds
+  2 quokkas
+  12 bats
+  5 frilled lizards
+  14 goblins
+  A leopard gecko skeleton (D:4)
+  12 rats
+112 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jozrael the Gargoyle Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+   385 | D:1      | Reached skill level 3 in Axes
+   497 | D:1      | Reached XP level 2. HP: 19/19 MP: 2/2
+   908 | D:1      | Reached XP level 3. HP: 23/23 MP: 3/3
+  1144 | D:1      | Reached skill level 4 in Axes
+  1323 | D:2      | Reached ** piety under Trog
+  1462 | D:2      | Reached XP level 4. HP: 27/28 MP: 4/4
+  1538 | D:2      | Found a burning altar of Makhleb.
+  1729 | D:2      | Found an opulent altar of Gozag.
+  1843 | D:2      | Found a white marble altar of Elyvilon.
+  1844 | D:2      | Found a glowing silver altar of Zin.
+  1943 | D:2      | Reached skill level 5 in Axes
+  1983 | D:3      | Found a stormy altar of Qazlal.
+  1998 | D:3      | Reached XP level 5. HP: 32/32 MP: 5/5
+  2130 | D:3      | Noticed Robin
+  2139 | D:3      | Reached *** piety under Trog
+  2166 | D:3      | Killed Robin
+  2996 | D:4      | Reached XP level 6. HP: 36/37 MP: 6/6
+  3010 | D:4      | Reached skill level 6 in Axes
+  3566 | D:3      | Reached skill level 7 in Axes
+  3566 | D:3      | Reached XP level 7. HP: 28/41 MP: 7/7
+  3577 | D:4      | Killed from afar by an orc priest
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Axes           |  3     4  5     7 |  7.0
+Fighting       |                   |  3.2
+Armour         |                   |  2.1
+Dodging        |                   |  1.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Hand axe          |    33 |       |       ||    33
+       Short sword       |    85 |    26 |       ||   111
+       War axe           |       |   271 |     1 ||   272
+Invok: Berserk           |     1 |     3 |       ||     4
+       Trog's Hand       |       |     1 |       ||     1
+  Use: Scroll            |       |     6 |       ||     6
+ Stab: Sleeping          |     2 |       |       ||     2
+  Eat: Chunk             |     3 |     8 |       ||    11
+       Ration            |       |       |     1 ||     1
+Armor: Animal skin       |    51 |     7 |       ||    58
+       Chain mail        |       |   256 |       ||   256
+Dodge: Dodged            |    87 |   174 |       ||   261
