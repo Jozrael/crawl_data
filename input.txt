@@ -1,6 +1,0 @@
-Username = Jozrael
-Server = crawl.akrasiac.org
-Mode = one-line
-
-Server Options: crawl.akrasiac.org, crawl.berotato.org
-Mode Options:   original, one-line, compact
