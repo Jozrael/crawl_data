@@ -1,7 +1,7 @@
 from html.parser import HTMLParser
 from requests import get
 import os
-from common import username, server, mode
+import common
 
 class linkParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
@@ -11,15 +11,15 @@ class linkParser(HTMLParser):
             self.links.append(attrs[0][1])
 
 def compute_data_url():
-    if server not in ["crawl.akrasiac.org","crawl.berotato.org"]:
+    if common.server not in ["crawl.akrasiac.org","crawl.berotato.org"]:
         raise Exception("server needs to be crawl.akrasiac.org, or crawl.berotato.org")
-    if mode not in ["original","one-line","compact"]:
+    if common.mode not in ["original","one-line","compact"]:
         raise Exception("mode needs to be original, one-line, or compact")
     rawdata_url = ""
-    if server == "crawl.akrasiac.org":
-        rawdata_url = "http://"+server+"/rawdata/"+username+"/"
-    elif server == "crawl.berotato.org":
-        rawdata_url = "http://"+server+"/crawl/morgue/"+username+"/"
+    if common.server == "crawl.akrasiac.org":
+        rawdata_url = "http://"+common.server+"/rawdata/"+common.username+"/"
+    elif common.server == "crawl.berotato.org":
+        rawdata_url = "http://"+common.server+"/crawl/morgue/"+common.username+"/"
     return rawdata_url
 
 def compute_necessary_pulls(rawdata_url):
@@ -30,10 +30,10 @@ def compute_necessary_pulls(rawdata_url):
     parser.feed(rawdata)
 
     #Always pull your latest, we'll assume it's changed.
-    to_pull = [username+".txt"]
+    to_pull = [common.username+".txt"]
 
     for link in parser.links:
-        if not os.path.isfile('./morgues/'+username+'/'+link):
+        if not os.path.isfile('./morgues/'+common.username+'/'+link):
             to_pull.append(link)
     return to_pull
 
@@ -43,13 +43,13 @@ def pull_data():
     
     to_pull = compute_necessary_pulls(rawdata_url)
     
-    if not os.path.exists('./morgues/'+username+'/'):
+    if not os.path.exists('./morgues/'+common.username+'/'):
         if not os.path.exists('./morgues/'):
             os.makedirs('./morgues/')
-        os.makedirs('./morgues/'+username)
+        os.makedirs('./morgues/'+common.username)
         
     for link in to_pull:
         morgue_file = str(get(rawdata_url+link).content.strip(),'utf-8')
 
-        with open("./morgues/"+username+"/"+link, "w") as f:
+        with open("./morgues/"+common.username+"/"+link, "w") as f:
             f.write(morgue_file)
