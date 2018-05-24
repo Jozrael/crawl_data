@@ -6,7 +6,7 @@ def get_killers(mode,username):
         with open('./morgues/'+username+'/'+file) as morgue_file:
             mf = morgue_file.read().splitlines()
             for index, line in enumerate(mf):
-                if ", 20" in line:
+                if "Began as a " in line:
                     if "Was " in mf[index+1]:
                         print_block(mf, index+2, mode)
                         break
