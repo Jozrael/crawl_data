@@ -1,18 +1,6 @@
-def print_block(morgue_file_lines, starting_index, mode):
-    output = ""
-    while True:
-        output += morgue_file_lines[starting_index].strip()
-        if mode == "original":
-            output += "\n"
-        if mode == "compact":
-            break
-        if morgue_file_lines[starting_index][len(morgue_file_lines[starting_index])-1] in ['.','!']:
-            output += "\n"
-            break
-        starting_index += 1
-    print(output)
+from os import remove
 
-def parse_input(in_file):
+def parse_input(in_file, out_file):
     input_file = open(in_file)
     username = input_file.readline().split("=",1)[1].strip()
     server = input_file.readline().split("=")[1].strip()
@@ -26,4 +14,20 @@ def parse_input(in_file):
         rawdata_url = "http://"+server+"/rawdata/"+username+"/"
     elif server == "crawl.berotato.org":
         rawdata_url = "http://"+server+"/crawl/morgue/"+username+"/"
+    remove(out_file)
     return username, rawdata_url, mode
+
+def print_block(morgue_file_lines, starting_index, mode):
+    output = ""
+    while True:
+        output += morgue_file_lines[starting_index].strip()
+        if mode == "original":
+            output += "\n"
+        if mode == "compact":
+            break
+        if morgue_file_lines[starting_index][len(morgue_file_lines[starting_index])-1] in ['.','!']:
+            output += "\n"
+            break
+        starting_index += 1
+    with open("output.txt", "a") as o:
+            o.write(output)
