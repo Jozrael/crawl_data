@@ -1,6 +1,6 @@
 from common import parse_input
 from pull_data import pull_data
-from get_killers import get_killers
+from analyze import get_killers
 import requests
 import os
 from lxml.html import parse
