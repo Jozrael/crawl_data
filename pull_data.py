@@ -22,7 +22,9 @@ def pull_data(rawdata_url, username):
         if not os.path.isfile('./morgues/'+username+'/'+link):
             to_pull.append(link)
     
-    if not os.path.exists(os.path.dirname('./morgues/'+username)):
+    if not os.path.exists(os.path.dirname('./morgues/'+username+"/"+link)):
+        if not os.path.exists('./morgues/'):
+            os.makedirs('./morgues/')
         os.makedirs('./morgues/'+username)
         
     for link in to_pull:

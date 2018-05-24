@@ -1,6 +1,6 @@
-Username = Jozrael
-Server = crawl.akrasiac.org
-Mode = compact
-
 Username = Maxmaps
 Server = crawl.berotato.org
+Mode = one-line
+
+Server = crawl.akrasiac.org, crawl.berotato.org
+Modes = original, one-line, compact
