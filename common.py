@@ -19,7 +19,7 @@ def init(in_file, out_file):
     remove(out_file)
     return rawdata_url
 
-def print_block(morgue_file_lines, starting_index, mode):
+def print_block(morgue_file_lines, starting_index):
     output = ""
     while True:
         output += morgue_file_lines[starting_index].strip()

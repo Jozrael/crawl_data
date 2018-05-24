@@ -8,10 +8,10 @@ def get_killers():
             for index, line in enumerate(mf):
                 if "Began as a " in line:
                     if "Was " in mf[index+1]:
-                        print_block(mf, index+2, mode)
+                        print_block(mf, index+2)
                         break
                     else:
-                        print_block(mf, index+1, mode)
+                        print_block(mf, index+1)
                         break
 
 def get_class_race_deity_combos(username):
