@@ -1,0 +1,3 @@
+Username = Jozrael
+Server = crawl.akrasiac.org
+Mode = compact
