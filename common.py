@@ -4,7 +4,8 @@ from os.path import isfile
 def data_store():
     return
 
-#As the init grows to encompass config options per analyze choice, this really needs to be genericized.
+#As the init grows to encompass config options per analyze choice,
+# this really needs to be genericized.
 def init(in_file, out_file):
     global username
     global server
@@ -25,7 +26,8 @@ def print_block(morgue_file_lines, starting_index):
             output += "\n"
         if mode == "compact":
             break
-        if morgue_file_lines[starting_index][len(morgue_file_lines[starting_index])-1] in ['.','!']:
+        if (morgue_file_lines[starting_index]
+            [len(morgue_file_lines[starting_index])-1] in ['.','!']):
             output += "\n"
             break
         starting_index += 1
