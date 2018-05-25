@@ -4,8 +4,8 @@ from os import listdir
 from collections import Counter
 
 def get_files(pattern, callback_function):
-    for file in listdir('./morgues/'+common.username):
-        with open('./morgues/'+common.username+'/'+file) as morgue_file:
+    for filename in listdir('./morgues/'+common.username):
+        with open('./morgues/'+common.username+'/'+filename) as morgue_file:
             mf = morgue_file.read().splitlines()
             for index, line in enumerate(mf):
                 if pattern in line:

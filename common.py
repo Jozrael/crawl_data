@@ -32,4 +32,4 @@ def print_block(morgue_file_lines, starting_index):
 
 def write_output(output):
     with open("output.txt", "a") as o:
-            o.write(output)
+        o.write(output)
