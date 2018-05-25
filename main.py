@@ -12,10 +12,10 @@ def main():
     #Run any analyzer functions you want here!
 
     #Should be optimized to identify exact killer and collate, like the next one.
-    analyze.get_killers()
+    analyze.killers()
 
     #Could be extended to care about any subset of these three in the input file. Also the input file could flag which of these to do.
     #Maybe even an option to not care about NONEs?
-    analyze.get_class_race_deity_combos()
+    analyze.class_race_deity_frequency()
 
 if __name__ == "__main__": main()

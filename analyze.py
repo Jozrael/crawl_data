@@ -12,7 +12,7 @@ def get_files(pattern, callback_function):
                     callback_function(mf, index)
                     break
 
-def get_killers():
+def killers():
     get_files("Began as a", callback_get_killers)
 
 def callback_get_killers(morgue_file, index):
@@ -21,7 +21,7 @@ def callback_get_killers(morgue_file, index):
     else:
         common.write_output(common.print_block(morgue_file, index+1))
 
-def get_class_race_deity_combos():
+def class_race_deity_frequency():
     global crd_data
     crd_data = []
     get_files("Began as a", callback_crd_combos)

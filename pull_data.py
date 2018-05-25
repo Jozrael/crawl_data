@@ -13,9 +13,9 @@ class LinkParser(HTMLParser):
 
 def compute_data_url():
     if common.server not in ["crawl.akrasiac.org", "crawl.berotato.org"]:
-        raise Exception("server needs to be crawl.akrasiac.org, or crawl.berotato.org")
+        raise ValueError("server needs to be crawl.akrasiac.org, or crawl.berotato.org")
     if common.mode not in ["original", "one-line", "compact"]:
-        raise Exception("mode needs to be original, one-line, or compact")
+        raise ValueError("mode needs to be original, one-line, or compact")
     rawdata_url = ""
     if common.server == "crawl.akrasiac.org":
         rawdata_url = "http://"+common.server+"/rawdata/"+common.username+"/"
