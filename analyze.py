@@ -27,12 +27,12 @@ def get_class_race_deity_combos():
     get_files("Began as a", callback_crd_combos)
     cnt = Counter()
     for combo in cdr_data:
-        cnt["A " + combo[0] + " "+combo[1] + " of "+combo[2]] += 1
+        cnt[combo[0] + " "+combo[1] + " of "+combo[2]] += 1
     for combo, count in cnt.most_common():
         common.write_output(combo + ": " + str(count)+'\n')
 
 def callback_crd_combos(morgue_file, index):
-    char_class_race = re.search('Began as a (.*) on ', morgue_file[index].strip()).group(1)
+    char_class_race = re.search('Began as (a|an) (.*) on ', morgue_file[index].strip()).group(2)
     char_class = char_class_race.split(" ")[0]
     char_race = char_class_race[char_class_race.find(" ")+1:]
     char_deity = "None"
