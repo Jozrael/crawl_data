@@ -1,4 +1,8 @@
 from os import remove
+from os.path import isfile
+
+def data_store():
+    return
 
 def init(in_file, out_file):
     global username
@@ -8,7 +12,8 @@ def init(in_file, out_file):
     username = input_file.readline().split("=",1)[1].strip()
     server = input_file.readline().split("=")[1].strip()
     mode = input_file.readline().split("=")[1].strip()
-    remove(out_file)
+    if isfile(out_file):
+        remove(out_file)
 
 def print_block(morgue_file_lines, starting_index):
     output = ""
@@ -22,5 +27,8 @@ def print_block(morgue_file_lines, starting_index):
             output += "\n"
             break
         starting_index += 1
+    return output
+
+def write_output(output):
     with open("output.txt", "a") as o:
             o.write(output)
