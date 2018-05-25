@@ -22,11 +22,11 @@ def callback_get_killers(morgue_file, index):
         common.write_output(common.print_block(morgue_file, index+1))
 
 def get_class_race_deity_combos():
-    global cdr_data
-    cdr_data = []
+    global crd_data
+    crd_data = []
     get_files("Began as a", callback_crd_combos)
     cnt = Counter()
-    for combo in cdr_data:
+    for combo in crd_data:
         cnt[combo[0] + " "+combo[1] + " of "+combo[2]] += 1
     for combo, count in cnt.most_common():
         common.write_output(combo + ": " + str(count)+'\n')
@@ -38,4 +38,4 @@ def callback_crd_combos(morgue_file, index):
     char_deity = "None"
     if "Was " in morgue_file[index+1]:
         char_deity = re.search('(.*) of (.*).', morgue_file[index+1].strip()).group(2)
-    cdr_data.append([char_class,char_race,char_deity])
+    crd_data.append([char_class,char_race,char_deity])
