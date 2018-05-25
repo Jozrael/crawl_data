@@ -4,15 +4,15 @@ from os import listdir
 from collections import Counter
 
 def get_files(pattern, callback_function):
-    for file in listdir('./morgues/'+common.username):
-        with open('./morgues/'+common.username+'/'+file) as morgue_file:
+    for filename in listdir('./morgues/{}'.format(common.username)):
+        with open('./morgues/{}/{}'.format(common.username, filename)) as morgue_file:
             mf = morgue_file.read().splitlines()
             for index, line in enumerate(mf):
                 if pattern in line:
                     callback_function(mf, index)
                     break
 
-def get_killers():
+def killers():
     get_files("Began as a", callback_get_killers)
 
 def callback_get_killers(morgue_file, index):
@@ -21,15 +21,15 @@ def callback_get_killers(morgue_file, index):
     else:
         common.write_output(common.print_block(morgue_file, index+1))
 
-def get_class_race_deity_combos():
+def class_race_deity_frequency():
     global crd_data
     crd_data = []
     get_files("Began as a", callback_crd_combos)
     cnt = Counter()
     for combo in crd_data:
-        cnt[combo[0] + " "+combo[1] + " of "+combo[2]] += 1
+        cnt["{} {} of {}".format(combo[0], combo[1], combo[2])] += 1
     for combo, count in cnt.most_common():
-        common.write_output(combo + ": " + str(count)+'\n')
+        common.write_output("{}: {}\n".format(combo, str(count)))
 
 def callback_crd_combos(morgue_file, index):
     char_class_race = re.search('Began as (a|an) (.*) on ', morgue_file[index].strip()).group(2)
