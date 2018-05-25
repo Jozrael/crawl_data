@@ -4,6 +4,7 @@ from requests import get
 
 import common
 
+
 class LinkParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
         if tag != 'a':
@@ -11,9 +12,11 @@ class LinkParser(HTMLParser):
         if ".txt" in attrs[0][1]:
             self.links.append(attrs[0][1])
 
+
 def compute_data_url():
     if common.server not in ["crawl.akrasiac.org", "crawl.berotato.org"]:
-        raise ValueError("server needs to be crawl.akrasiac.org, or crawl.berotato.org")
+        raise ValueError(
+            "server needs to be crawl.akrasiac.org, or crawl.berotato.org")
     if common.mode not in ["original", "one-line", "compact"]:
         raise ValueError("mode needs to be original, one-line, or compact")
     rawdata_url = ""
@@ -22,6 +25,7 @@ def compute_data_url():
     elif common.server == "crawl.berotato.org":
         rawdata_url = "http://"+common.server+"/crawl/morgue/"+common.username+"/"
     return rawdata_url
+
 
 def compute_necessary_pulls(rawdata_url):
     rawdata = str(get(rawdata_url).content)
