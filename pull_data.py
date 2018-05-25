@@ -4,12 +4,14 @@ from requests import get
 
 import common
 
+
 class LinkParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
         if tag != 'a':
             return
         if ".txt" in attrs[0][1]:
             self.links.append(attrs[0][1])
+
 
 def compute_data_url():
     if common.server not in ["crawl.akrasiac.org", "crawl.berotato.org"]:
@@ -22,6 +24,7 @@ def compute_data_url():
     elif common.server == "crawl.berotato.org":
         rawdata_url = "http://"+common.server+"/crawl/morgue/"+common.username+"/"
     return rawdata_url
+
 
 def compute_necessary_pulls(rawdata_url):
     rawdata = str(get(rawdata_url).content)
