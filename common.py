@@ -4,6 +4,7 @@ from os.path import isfile
 def data_store():
     return
 
+#As the init grows to encompass config options per analyze choice, this really needs to be genericized.
 def init(in_file, out_file):
     global username
     global server
