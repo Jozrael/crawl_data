@@ -58,5 +58,5 @@ def pull_data():
     for link in to_pull:
         morgue_file = str(get(rawdata_url+link).content.strip(), 'utf-8')
 
-        with open("./morgues/"+common.username+"/"+link, "w") as f:
-            f.write(morgue_file)
+        with open("./morgues/"+common.username+"/"+link, "wb") as f:
+            f.write(morgue_file.encode('utf8'))
